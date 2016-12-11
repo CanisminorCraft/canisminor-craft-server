@@ -13,7 +13,6 @@
 config-version: 10
 settings:
   save-user-cache-on-stop-only: false
-  bungeecord: false
   late-bind: false
   sample-count: 12
   player-shuffle: 0
@@ -23,6 +22,7 @@ settings:
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
   item-dirty-ticks: 20
+  bungeecord: false
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
@@ -44,21 +44,32 @@ messages:
   restart: Server is restarting
 commands:
   tab-complete: 0
-  log: true
-  silent-commandblock-console: false
   spam-exclusions:
   - /skill
+  silent-commandblock-console: false
   replace-commands:
   - setblock
   - summon
   - testforblock
   - tellraw
+  log: true
 stats:
   disable-saving: false
   forced-stats: {}
 world-settings:
   default:
     verbose: true
+    growth:
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
+      netherwart-modifier: 100
+      vine-modifier: 100
+      cocoa-modifier: 100
     entity-activation-range:
       animals: 32
       monsters: 32
@@ -69,6 +80,7 @@ world-settings:
       monsters: 48
       misc: 32
       other: 64
+    mob-spawn-range: 4
     ticks-per:
       hopper-transfer: 8
       hopper-check: 8
@@ -86,18 +98,6 @@ world-settings:
       swim-multiplier: 0.01
       sprint-multiplier: 0.1
       other-multiplier: 0.0
-    mob-spawn-range: 4
-    growth:
-      cactus-modifier: 100
-      cane-modifier: 100
-      melon-modifier: 100
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 100
-      wheat-modifier: 100
-      netherwart-modifier: 100
-      vine-modifier: 100
-      cocoa-modifier: 100
     max-tnt-per-tick: 100
     max-tick-time:
       tile: 50
