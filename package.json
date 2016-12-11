@@ -1,0 +1,12 @@
+{
+  "name": "cmc-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@git.coding.net:canisminor1990/cmc-server.git",
+  "author": "BuildTools <unconfigured@null.spigotmc.org>",
+  "license": "MIT",
+  "scripts": {
+    "push": "git add -A ; git commit -m 'updata' ; git pull ; git push",
+    "start": "chmod +x start.sh"
+  }
+}
