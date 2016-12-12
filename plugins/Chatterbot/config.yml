@@ -1,0 +1,15 @@
+#进入http://www.tuling123.com/注册账号以获取key
+#详细教程请转到:http://www.mcbbs.net/thread-571885-1-1.html
+#优先级为:SpecificReply>Keyword>本身回复
+Key: null
+Enabled: true
+UsePrefix: true
+Prefix: '#'
+JoinMesseng: true
+ChatPrefix: §3§l[聊天机器人] => §b
+Messeng: 欢迎[player]进入服务器!
+SpecificReply:
+  abc:你说什么?;我听不清!;&e你_大_点_声_音_啊!;§cabc?§l没听过!
+Keyword:
+  a:你想干嘛?;你说说你想干嘛啊
+  你:我叫殇啦!;你你你,你什么你;我怎么啦?
