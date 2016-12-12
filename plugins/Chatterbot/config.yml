@@ -1,15 +1,9 @@
-#½øÈëhttp://www.tuling123.com/×¢²áÕËºÅÒÔ»ñÈ¡key
-#ÏêÏ¸½Ì³ÌÇë×ªµ½:http://www.mcbbs.net/thread-571885-1-1.html
-#ÓÅÏÈ¼¶Îª:SpecificReply>Keyword>±¾Éí»Ø¸´
-Key: null
+Key: 2f33e9e0d89391a29c595283995aa9a1
 Enabled: true
 UsePrefix: true
-Prefix: '#'
+Prefix: '@bot'
 JoinMesseng: true
-ChatPrefix: ¡ì3¡ìl[ÁÄÌì»úÆ÷ÈË] => ¡ìb
-Messeng: »¶Ó­[player]½øÈë·şÎñÆ÷!
+ChatPrefix: Â§3Â§l[Bot] => Â§b
+Messeng: æ¬¢è¿æ¥è‡ª[address]åœ°åŒºçš„ç©å®¶:[player]è¿›å…¥ Canisminor Craft!
 SpecificReply:
-  abc:ÄãËµÊ²Ã´?;ÎÒÌı²»Çå!;&eÄã_´ó_µã_Éù_Òô_°¡!;¡ìcabc?¡ìlÃ»Ìı¹ı!
 Keyword:
-  a:ÄãÏë¸ÉÂï?;ÄãËµËµÄãÏë¸ÉÂï°¡
-  Äã:ÎÒ½ĞéäÀ²!;ÄãÄãÄã,ÄãÊ²Ã´Äã;ÎÒÔõÃ´À²?
