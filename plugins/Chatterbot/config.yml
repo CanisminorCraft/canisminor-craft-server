@@ -1,9 +1,7 @@
 Key: 2f33e9e0d89391a29c595283995aa9a1
 Enabled: true
-UsePrefix: false
-Prefix: '@bot'
+UsePrefix: true
+Prefix: ''
 JoinMesseng: true
-ChatPrefix: §3§l[Bot] => §b
+ChatPrefix: [Bot] => 
 Messeng: 欢迎来自[address]地区的玩家:[player]进入 Canisminor Craft!
-SpecificReply:
-Keyword:
