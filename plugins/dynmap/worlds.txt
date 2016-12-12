@@ -9,7 +9,7 @@ worlds:
   # Worlds can be handled by templates, based on world type
   # You can override the properties of the template by specifying them in this section
   #    for example 'Title: "My Awesome World"'
-  #- name: world
+  - name: world
   #  title: "World"
   #   Use 'enabled: false' to disable a certain world.
   #  enabled: false
@@ -65,15 +65,15 @@ worlds:
   #  # of frequently updated tiles (such as due to machines, pistons, quarries or other automation).  Value can also be set on
   #  # individual maps.
   #  tileupdatedelay: 30
-  #  maps:
-  #    - class: org.dynmap.hdmap.HDMap
-  #      name: flat
-  #      title: "Flat"
-  #      prefix: flat
-  #      perspective: iso_S_90_lowres
-  #      shader: stdtexture
-  #      lighting: shadows
-  #      mapzoomin: 1
+    maps:
+      - class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: "Flat"
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: shadows
+        mapzoomin: 1
   #    - class: org.dynmap.hdmap.HDMap
   #      name: surface
   #      title: "Surface"
@@ -95,7 +95,7 @@ worlds:
   #- name: world2
   #  title: "Second World"
   #
-  #- name: nether
+  - name: nether
   #  title: "Nether"
   #  center:
   #    x: 0
@@ -103,17 +103,17 @@ worlds:
   #    z: 0
   #  # Number of extra zoom-out levels for world (each level is twice as big as the previous one)
   #  extrazoomout: 3
-  #  maps:
-  #    - class: org.dynmap.hdmap.HDMap
-  #      name: flat
-  #      title: "Flat"
-  #      prefix: flat
-  #      perspective: iso_S_90_lowres
-  #      shader: stdtexture
-  #      lighting: nethershadows
+    maps:
+      - class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: "Flat"
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: nethershadows
   #      # Map background color (day or night)
-  #      background: "#300806"
-  #      mapzoomin: 1
+        background: "#300806"
+        mapzoomin: 1
   #    - class: org.dynmap.hdmap.HDMap
   #      name: nether
   #      title: "Surface"
