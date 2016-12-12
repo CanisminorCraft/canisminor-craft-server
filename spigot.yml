@@ -13,6 +13,7 @@
 config-version: 10
 settings:
   save-user-cache-on-stop-only: false
+  bungeecord: false
   late-bind: false
   sample-count: 12
   player-shuffle: 0
@@ -22,7 +23,6 @@ settings:
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
   item-dirty-ticks: 20
-  bungeecord: false
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
@@ -44,15 +44,15 @@ messages:
   restart: Server is restarting
 commands:
   tab-complete: 0
+  log: true
+  silent-commandblock-console: false
   spam-exclusions:
   - /skill
-  silent-commandblock-console: false
   replace-commands:
   - setblock
   - summon
   - testforblock
   - tellraw
-  log: true
 stats:
   disable-saving: false
   forced-stats: {}
