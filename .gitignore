@@ -17,4 +17,5 @@ yarn.lock
 usercache.json
 
 # plugin
-/plugins/dynmap/
+/plugins/dynmap/**/*
+!/plugins/dynmap/*.txt
