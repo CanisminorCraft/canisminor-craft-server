@@ -23,3 +23,4 @@ usercache.json
 !/plugins/dynmap/web/**/*
 /pugins/dynmap/web/tiles/
 /pugins/dynmap/web/tiles/**/*
+/pugins/dynmap/web/tiles/**/*.png
