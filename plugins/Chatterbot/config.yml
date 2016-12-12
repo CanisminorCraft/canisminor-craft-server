@@ -1,6 +1,6 @@
 Key: 2f33e9e0d89391a29c595283995aa9a1
 Enabled: true
-UsePrefix: true
+UsePrefix: false
 Prefix: '@bot'
 JoinMesseng: true
 ChatPrefix: §3§l[Bot] => §b
