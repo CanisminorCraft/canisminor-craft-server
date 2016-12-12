@@ -13,4 +13,5 @@ yarn.lock
 /world_the_end/
 
 # other
-/log/
+/logs/
+usercache.json
