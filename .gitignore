@@ -15,3 +15,6 @@ yarn.lock
 # other
 /logs/
 usercache.json
+
+# plugin
+/plugins/dynmap/
