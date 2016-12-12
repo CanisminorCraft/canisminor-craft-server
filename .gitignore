@@ -21,5 +21,7 @@ usercache.json
 !/plugins/dynmap/*.txt
 !/plugins/dynmap/web/
 !/plugins/dynmap/web/*
-/plugins/dynmap/web/tiles/
-/plugins/dynmap/web/tiles/**/*
+!/plugins/dynmap/web/tiles/
+/plugins/dynmap/web/tiles/*
+!/plugins/dynmap/web/tiles/_markers_/
+!/plugins/dynmap/web/tiles/_markers_/*
