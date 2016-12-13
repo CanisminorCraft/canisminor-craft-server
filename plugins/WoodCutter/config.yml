@@ -1,0 +1,5 @@
+# 
+# Requires 'WoodCutter' to be added under 'allowed-plugins:' in PRISM's config
+needAxe: true
+mustSneak: false
+recordPrismEvents: false
