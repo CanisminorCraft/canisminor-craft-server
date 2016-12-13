@@ -1,0 +1,5 @@
+server.basics:
+  description: Permissions for CMC.
+  default: true
+  children:
+    woodcutter.use: true

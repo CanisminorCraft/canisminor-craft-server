@@ -18,14 +18,14 @@ prevent-block-place: false
 prevent-mob-spawn: false
 worlds:
   world:
-    x: 85.0
-    z: -15.0
-    radiusX: 512
-    radiusZ: 512
+    x: 84.0
+    z: -16.0
+    radiusX: 1500
+    radiusZ: 1500
     wrapping: false
   world_nether:
-    x: -4.0
-    z: 12.0
-    radiusX: 512
-    radiusZ: 512
+    x: 0.0
+    z: 0.0
+    radiusX: 1500
+    radiusZ: 1500
     wrapping: false
