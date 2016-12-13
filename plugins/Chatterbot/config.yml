@@ -5,5 +5,5 @@ Prefix: ''
 JoinMesseng: false
 ChatPrefix: '<Bot> '
 Messeng: ''
-SpecificReply:
-Keyword:
+SpecificReply: ''
+Keyword: ''
