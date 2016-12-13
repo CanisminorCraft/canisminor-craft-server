@@ -71,7 +71,7 @@ worlds:
         title: "Flat"
         prefix: flat
         perspective: iso_S_90_lowres
-        shader: CanisminorCraft
+        shader: default
         lighting: shadows
         mapzoomin: 1
   #    - class: org.dynmap.hdmap.HDMap
@@ -109,7 +109,7 @@ worlds:
         title: "Flat"
         prefix: flat
         perspective: iso_S_90_lowres
-        shader: CanisminorCraft
+        shader: default
         lighting: nethershadows
   #      # Map background color (day or night)
         background: "#300806"
@@ -130,6 +130,6 @@ worlds:
         name: flat
         title: "Flat"
         prefix: flat
-        shader: CanisminorCraft
+        shader: default
         perspective: iso_S_90_lowres
 
