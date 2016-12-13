@@ -23,7 +23,7 @@ usercache.json
 !/plugins/dynmap/*.txt
 !/plugins/dynmap/web/
 !/plugins/dynmap/web/*
-!/plugins/dynmap/web/texturepacks/
-!/plugins/dynmap/web/texturepacks/*
+!/plugins/dynmap/texturepacks/
+!/plugins/dynmap/texturepacks/*
 !/plugins/dynmap/web/tiles/
 /plugins/dynmap/web/tiles/*
