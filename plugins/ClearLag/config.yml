@@ -73,7 +73,7 @@ config-updater:
 # -- 'max-mobs' is how many entities may be in the radius before the spawning is blocked
 mobegg-limiter:
   enabled: false
- [A check-radius: 8
+  check-radius: 8
   max-mobs: 5
 
 B#Disable new chunk generation, or just put a cap on how many can load at once.
