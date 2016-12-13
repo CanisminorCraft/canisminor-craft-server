@@ -309,7 +309,7 @@ render-triggers:
 tilespath: web/tiles
 
 # The path where the web-files are located.
-webpath: ~/cmc-website/dist/dynmap
+webpath: ../../../cmc-website/dist/dynmap
 
 # The path were the /dynmapexp command exports OBJ ZIP files
 exportpath: export
