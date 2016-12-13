@@ -70,10 +70,9 @@ worlds:
         name: flat
         title: "Flat"
         prefix: flat
-        perspective: iso_S_90_lowres
-        shader: stdtexture
-        lighting: shadows
-        mapzoomin: 1
+        shader: CanisminorCraft
+  #      lighting: shadows
+  #      mapzoomin: 1
   #    - class: org.dynmap.hdmap.HDMap
   #      name: surface
   #      title: "Surface"
@@ -108,12 +107,11 @@ worlds:
         name: flat
         title: "Flat"
         prefix: flat
-        perspective: iso_S_90_lowres
-        shader: stdtexture
-        lighting: nethershadows
+        shader: CanisminorCraft
+  #      lighting: nethershadows
   #      # Map background color (day or night)
-        background: "#300806"
-        mapzoomin: 1
+  #      background: "#300806"
+  #      mapzoomin: 1
   #    - class: org.dynmap.hdmap.HDMap
   #      name: nether
   #      title: "Surface"
@@ -130,4 +128,5 @@ worlds:
         name: flat
         title: "Flat"
         prefix: flat
+        shader: CanisminorCraft
 

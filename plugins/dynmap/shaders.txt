@@ -8,6 +8,10 @@ shaders:
     name: default
     texturepack: standard
 
+  - class: org.dynmap.hdmap.TexturePackHDShader
+    name: CanisminorCraft
+    texturepack: CanisminorCraft.zip
+
   # Color scheme based shaders
   - class: org.dynmap.hdmap.DefaultHDShader
     name: defaultscheme
