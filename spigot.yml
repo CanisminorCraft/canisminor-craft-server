@@ -11,24 +11,6 @@
 # Forums: http://www.spigotmc.org/
 
 config-version: 10
-commands:
-  tab-complete: false
-  log: true
-  spam-exclusions:
-  - /skill
-  silent-commandblock-console: false
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
-messages:
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
 settings:
   save-user-cache-on-stop-only: true
   bungeecord: false
@@ -53,6 +35,24 @@ settings:
     attackDamage:
       max: 2048.0
   debug: false
+messages:
+  whitelist: You are not whitelisted on this server!
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {0}
+  outdated-server: Outdated server! I'm still on {0}
+  restart: Server is restarting
+commands:
+  tab-complete: false
+  log: true
+  spam-exclusions:
+  - /skill
+  silent-commandblock-console: false
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
 stats:
   disable-saving: false
   forced-stats: {}
@@ -106,10 +106,10 @@ world-settings:
     merge-radius:
       item: 2.5
       exp: 3.0
+    hanging-tick-frequency: 100
     arrow-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
     view-distance: 5
-    hanging-tick-frequency: 100
     zombie-aggressive-towards-villager: true
     nerf-spawner-mobs: false
