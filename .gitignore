@@ -25,5 +25,3 @@ usercache.json
 !/plugins/dynmap/web/texturepacks/*
 !/plugins/dynmap/web/tiles/
 /plugins/dynmap/web/tiles/*
-!/plugins/dynmap/web/tiles/_markers_/
-!/plugins/dynmap/web/tiles/_markers_/*
