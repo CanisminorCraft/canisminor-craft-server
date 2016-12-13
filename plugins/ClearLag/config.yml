@@ -35,7 +35,7 @@ ram-meter:
 # -- to another.  Going faster over chunks then that number will cancel their movement
 player-speed-limiter:
   enabled: false
-  chunk-to-chunk-time:A 600
+  chunk-to-chunk-time: 600
   limit-only-fly: false
 
 #Should mobs be nerfed to prevent over-breeding to reduce CPU usage (And possibly raise TPS)
