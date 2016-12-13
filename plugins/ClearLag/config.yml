@@ -226,7 +226,7 @@ auto-removal:
   enabled: true
   broadcast-message: '&6[ClearLag] &aRemoved +RemoveAmount Entities!'
   broadcast-removal: true
-  autoremoval-interval: 460
+  autoremoval-interval: 6000
   world-filter:
   # - this_world <-ThAis world will be ignored during removal!
   boat: true
