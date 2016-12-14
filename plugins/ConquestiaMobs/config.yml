@@ -1,12 +1,12 @@
 Stats:
   Health:
-    Multiplier: 0.2
+    Multiplier: 0.1
     Enabled: true
   Experience:
     Enabled: true
-    Multiplier: 0.6
+    Multiplier: 0.1
   Damage:
-    Multiplier: 0.6
+    Multiplier: 0.1
     Enabled: true
 MobArena:
   WaveLeveling: false
@@ -25,7 +25,7 @@ Naming:
 Leveling:
   StartLevel: 1
   MaxLevel: 100
-  DistancePerLevel: 10.0
+  DistancePerLevel: 15.0
   MinLevel: 1
 Spawning:
   BlockedMobs:
