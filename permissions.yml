@@ -3,3 +3,4 @@ server.basics:
   default: true
   children:
     woodcutter.use: true
+    mcmmo.defaults: true
