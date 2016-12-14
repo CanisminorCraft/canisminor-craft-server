@@ -27,3 +27,5 @@ usercache.json
 !/plugins/dynmap/texturepacks/*
 !/plugins/dynmap/web/tiles/
 /plugins/dynmap/web/tiles/*
+/plugins/ConquestiaMobs/**/*
+!/plugins/ConquestiaMobs/**/config.xml
