@@ -1,7 +1,7 @@
 EnabledWorlds:
 - world
 TimeSeconds: 1
-TimeTicks: 0
+TimeTicks: 1
 HoursToAdd: 0
 Messages:
   Console: Console is not allowed to do this!
