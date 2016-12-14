@@ -1,0 +1,68 @@
+# ConsoleColor config
+
+# Should the plugin tag [PLUGIN_NAME] be highlighted
+colorPluginTag: true
+
+# Should the log message be highlighted depending on the logging level
+colorLoggingLevel: true
+
+# How the messages should be displayed
+#
+# Variables:
+# %thread - Thread name
+# %d{HH:mm:ss} - Timestamp
+# %msg - log message
+# %n - new line
+# These variables try to get the orgin. This is an expensive operation and may impact performance. Use with caution.
+# %class{precision} - Class name
+# %method - Method name
+# %line - Line number
+#
+# For more details vist: https://logging.apache.org/log4j/2.x/manual/layouts.html#Patterns
+logFormat: '[%d{HH:mm:ss} %level]: %msg%n'
+
+# Log Level Colors
+FATAL: red blink
+ERROR: red
+WARN: yellow bold
+INFO: default
+DEBUG: green bold
+TRACE: blue
+
+# Plugin Colors
+PLUGIN: blue
+P-Essentials: green
+P-LagMonitor: red
+P-WorldEdit: red
+P-FastLogin: cyan
+P-WorldGuard: cyan
+P-Vault: magenta
+P-ChangeSkin: yellow
+P-ScoreboardStats: white
+P-mcMMOAction: blue
+
+# Available foreground colors   | Available background colors
+# Black                         |   BG_Black
+# Red                           |   BG_Red
+# Green                         |   BG_Green
+# Yellow                        |   BG_Yellow
+# Blue                          |   BG_Blue
+# Magenta                       |   BG_Magenta
+# Cyan                          |   BG_Cyan
+# White                         |   BG_White
+# Default                       |
+
+# Available styling options
+# blink         | Blinking characters
+# bold          | Bold
+# underline     | Underlined characters
+# reverse       | Reverse video
+# dim           | Dimmed or faint characters
+# italic        | italic
+# hidden        |
+
+# Hides the log message if it contains one or more of the following texts
+# The texts are case-sensitive
+hide-messages:
+    - 'ThisIsATest'
+    - 'SecondTest'
