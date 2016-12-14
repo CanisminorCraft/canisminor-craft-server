@@ -45,9 +45,9 @@ messages:
 commands:
   tab-complete: false
   log: true
+  silent-commandblock-console: false
   spam-exclusions:
   - /skill
-  silent-commandblock-console: false
   replace-commands:
   - setblock
   - summon

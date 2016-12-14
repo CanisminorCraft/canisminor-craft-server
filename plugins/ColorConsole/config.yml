@@ -4,7 +4,7 @@
 colorPluginTag: true
 
 # Should the log message be highlighted depending on the logging level
-colorLoggingLevel: true
+colorLoggingLevel: false
 
 # How the messages should be displayed
 #
@@ -19,19 +19,19 @@ colorLoggingLevel: true
 # %line - Line number
 #
 # For more details vist: https://logging.apache.org/log4j/2.x/manual/layouts.html#Patterns
-logFormat: '[%d{HH:mm:ss} %level]: %msg%n'
+logFormat: '[%black{%d{HH:mm:ss} %level}] %highlight{%msg}{FATAL=red, ERROR=red, WARN=yellow, INFO=white, DEBUG=green, TRACE=blue}%n'
 
 # Log Level Colors
 FATAL: red blink
 ERROR: red
 WARN: yellow bold
-INFO: default
+INFO: white
 DEBUG: green bold
 TRACE: blue
 
 # Plugin Colors
-PLUGIN: blue
-P-Essentials: green
+PLUGIN: green
+P-Essentials: blue
 P-LagMonitor: red
 P-WorldEdit: red
 P-FastLogin: cyan
