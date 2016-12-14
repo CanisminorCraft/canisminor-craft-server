@@ -68,7 +68,7 @@ components:
     # If true, player positions/status is protected (login with ID with dynmap.playermarkers.seeall permission required for info other than self)
     protected-player-info: false
     # If true, hide players with invisibility potion effects active
-    hide-if-invisiblity-potion: true
+    hide-if-invisiblity-potion: false
     # If true, player names are not shown on map, chat, list
     hidenames: false
   #- class: org.dynmap.JsonFileClientUpdateComponent
@@ -119,7 +119,7 @@ components:
     offlineminzoom: 0
     maxofflinetime: 30
     # (optional) layer for showing player's spawn beds
-    showspawnbeds: false
+    showspawnbeds: true
     spawnbedlabel: "Spawn Beds"
     spawnbedicon: bed
     spawnbedhidebydefault: true
@@ -139,9 +139,9 @@ components:
     showplayerfaces: true
     messagettl: 5
     # Optional: set number of lines in scrollable message history: if set, messagettl is not used to age out messages
-    #scrollback: 100
+    scrollback: 100
     # Optiona; set maximum number of lines visible for chatbox
-    #visiblelines: 10
+    visiblelines: 10
     # Optional: send push button
     sendbutton: false
   - class: org.dynmap.ClientComponent
@@ -197,16 +197,16 @@ components:
 display-whitelist: false
 
 # How often a tile gets rendered (in seconds).
-renderinterval: 5
+renderinterval: 30
 
 # How many tiles on update queue before accelerate render interval
 renderacceleratethreshold: 60
 
 # How often to render tiles when backlog is above renderacceleratethreshold
-renderaccelerateinterval: 0.2
+renderaccelerateinterval: 5
 
 # How many update tiles to work on at once (if not defined, default is 1/2 the number of cores)
-tiles-rendered-at-once: 2
+tiles-rendered-at-once: 1
 
 # If true, use normal priority threads for rendering (versus low priority) - this can keep rendering
 # from starving on busy Windows boxes (Linux JVMs pretty much ignore thread priority), but may result
@@ -336,7 +336,7 @@ login-enabled: false
 login-required: false
 
 # Period between tile renders for fullrender, in seconds (non-zero to pace fullrenders, lessen CPU load)
-timesliceinterval: 0.0
+timesliceinterval: 4
 
 # Maximum chunk loads per server tick (1/20th of a second) - reducing this below 90 will impact render performance, but also will reduce server thread load
 maxchunkspertick: 200
