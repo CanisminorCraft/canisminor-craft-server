@@ -8,5 +8,10 @@
   "scripts": {
     "push": "git add -A ; git commit -m 'updata' ; git pull ; git push",
     "start": "bash start.sh"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "logging": "^2.0.21",
+    "scriptserver": "^0.1.5"
   }
 }
