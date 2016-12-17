@@ -5,6 +5,7 @@ npm-debug.log
 yarn.lock
 *.log
 .log
+*.dat
 
 # extra
 /_build/
