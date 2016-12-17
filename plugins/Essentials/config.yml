@@ -185,8 +185,8 @@ mute-commands:
 player-commands:
   - afk
   - afk.auto
-  - back
-  - back.ondeath
+#  - back
+#  - back.ondeath
   - balance
   - balance.others
   - balancetop
@@ -227,7 +227,7 @@ player-commands:
   - realname
   - seen
   - sell
-  - sethome
+#  - sethome
   - setxmpp
   - signs.create.protection
   - signs.create.trade
