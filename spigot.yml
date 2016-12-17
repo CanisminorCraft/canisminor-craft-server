@@ -102,10 +102,10 @@ world-settings:
     max-tick-time:
       tile: 10
       entity: 20
-    item-despawn-rate: 6000
     merge-radius:
       item: 2.5
       exp: 3.0
+    item-despawn-rate: 6000
     arrow-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
