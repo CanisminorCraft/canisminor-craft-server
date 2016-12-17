@@ -4,7 +4,7 @@ groups:
   Default:
     name: Default
     color: '&2'
-    prefix: '&f[&2村民&f]'
+    prefix: '&2村民&f'
     permissions:
     - ehd.home
     - ehd.home.set
