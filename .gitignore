@@ -6,7 +6,7 @@ yarn.lock
 *.log
 .log
 *.dat
-
+ids-by-ip.txt
 
 # extra
 /_build/
