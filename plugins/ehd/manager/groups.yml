@@ -11,4 +11,5 @@ groups:
     - ehd.home.delete
     - woodcutter.use
     - mcmmo.defaults
+    - BossShop.open.sign
     access: []

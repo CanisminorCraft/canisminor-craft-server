@@ -248,8 +248,8 @@ auto-removal:
   # - Minecart !isMounted <- This entity will be REMOVED if it's NOT mounted
   # - Wolf !hasName <- This entity will be REMOVED if it doesn't have a name
   warnings:
-        - 'time:3570 msg:&4[ClearLag] 地面将在 &7+remaining &f秒后被清理...'
-        - 'time:3590 msg:&4[ClearLag] 地面将在 &7+remaining &f秒后被清理...'
+        - 'time:3570 msg:&f<&6清道夫&f> 地面将在 &7+remaining &f秒后被清理...'
+        - 'time:3590 msg:&f<&6清道夫&f> 地面将在 &7+remaining &f秒后被清理...'
 
 #What should be removed during /lagg clear
 command-remove:

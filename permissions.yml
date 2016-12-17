@@ -4,3 +4,4 @@ server.basics:
   children:
     woodcutter.use: true
     mcmmo.defaults: true
+    BossShop.open.sign: true
