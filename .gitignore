@@ -8,6 +8,8 @@ yarn.lock
 *.dat
 ids-by-ip.txt
 messages_en.properties
+server.properties
+paper.yml
 
 # extra
 /_build/
