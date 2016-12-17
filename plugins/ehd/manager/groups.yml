@@ -1,0 +1,14 @@
+groups:
+  names:
+  - Default
+  Default:
+    name: Default
+    color: '&2'
+    prefix: '&f[&2村民&f]'
+    permissions:
+    - ehd.home
+    - ehd.home.set
+    - ehd.home.delete
+    - woodcutter.use
+    - mcmmo.defaults
+    access: []
