@@ -16,10 +16,10 @@ npc:
         owner_required: false
       location:
         world: world_nether
-        x: '16.8882'
-        y: '49.0'
-        z: '-24.4748'
-        yaw: '93.14947509765625'
+        x: '32.9955'
+        y: '55.0'
+        z: '-21.783'
+        yaw: '294.7308349609375'
         pitch: '0.0'
       speech: chat
       spawned: true
@@ -172,8 +172,8 @@ npc:
                 pitch: '0.0'
         provider: linear
       sentinel:
-        stats_ticksSpawned: 38995
-        stats_timesSpawned: 10
+        stats_ticksSpawned: 40204
+        stats_timesSpawned: 11
         stats_arrowsFired: 0
         stats_potionsThrow: 0
         stats_fireballsFired: 0
@@ -181,10 +181,10 @@ npc:
         stats_eggsThrown: 0
         stats_skullsThrown: 0
         stats_pearlsUsed: 0
-        stats_punches: 207
-        stats_attackAttempts: 1144
+        stats_punches: 218
+        stats_attackAttempts: 1192
         stats_damageTaken: 25.0
-        stats_damageGiven: 205.84700030088425
+        stats_damageGiven: 216.36700028181076
         range: 20.0
         damage: -1.0
         armor: -1.0
@@ -218,7 +218,7 @@ npc:
       owner:
         owner: canis_minor
         uuid: 3747430b-9e6e-3962-aa13-da9f27749789
-    traitnames: type,powered,text,spawned,inventory,location,waypoints,sentinel,controllable,poses,owner,speech
+    traitnames: spawned,waypoints,poses,inventory,powered,owner,type,location,sentinel,speech,controllable,text
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -248,8 +248,8 @@ npc:
                 pitch: '0.0'
         provider: linear
       sentinel:
-        stats_ticksSpawned: 4571013
-        stats_timesSpawned: 84
+        stats_ticksSpawned: 4589267
+        stats_timesSpawned: 125
         stats_arrowsFired: 0
         stats_potionsThrow: 0
         stats_fireballsFired: 0
@@ -258,8 +258,8 @@ npc:
         stats_skullsThrown: 0
         stats_pearlsUsed: 0
         stats_punches: 180
-        stats_attackAttempts: 22030
-        stats_damageTaken: 1703.520712709427
+        stats_attackAttempts: 22095
+        stats_damageTaken: 2793.5207127094272
         stats_damageGiven: 109.9275751709938
         range: 20.0
         damage: -1.0
@@ -320,7 +320,7 @@ npc:
       owner:
         owner: canis_minor
         uuid: 3747430b-9e6e-3962-aa13-da9f27749789
-    traitnames: type,equipment,spawned,inventory,location,gravity,sentinel,waypoints,owner
+    traitnames: spawned,waypoints,inventory,owner,type,sentinel,location,gravity,equipment
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -446,8 +446,8 @@ npc:
                 pitch: '0.0'
         provider: linear
       sentinel:
-        stats_ticksSpawned: 424318
-        stats_timesSpawned: 72
+        stats_ticksSpawned: 426465
+        stats_timesSpawned: 73
         stats_arrowsFired: 0
         stats_potionsThrow: 0
         stats_fireballsFired: 0
@@ -490,10 +490,10 @@ npc:
           '0': OWNER
       location:
         world: world
-        x: '138.4875'
+        x: '139.2711'
         y: '63.0'
-        z: '3.8304'
-        yaw: '99.44064331054688'
+        z: '3.2281'
+        yaw: '298.24609375'
         pitch: '0.0'
       spawned: true
       gravity:
@@ -514,19 +514,19 @@ npc:
       owner:
         owner: canis_minor
         uuid: 3747430b-9e6e-3962-aa13-da9f27749789
-    traitnames: type,equipment,spawned,inventory,location,sentinel,waypoints,owner
+    traitnames: spawned,waypoints,inventory,owner,type,sentinel,location,equipment
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
       usedefaultstuckaction: false
   '3':
     metadata:
-      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0ODE5NjA5NTc4NTMsInByb2ZpbGVJZCI6IjIwMDM5MmE1NGE5NjRiMTliMDJiNGIwZjJjNzY3MzIyIiwicHJvZmlsZU5hbWUiOiJjYW5pc19taW5vciIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDJjYzhiZGI5Y2ZjYTE1NTcwZGUzN2QxNWQ3ZTFhOTRjNGE1NTY0OGNlMTc1NWM2MzMxNWRjMWVlZjliY2IyZCJ9fX0=
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0ODE5NjMwMTQyNjksInByb2ZpbGVJZCI6IjIwMDM5MmE1NGE5NjRiMTliMDJiNGIwZjJjNzY3MzIyIiwicHJvZmlsZU5hbWUiOiJjYW5pc19taW5vciIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDJjYzhiZGI5Y2ZjYTE1NTcwZGUzN2QxNWQ3ZTFhOTRjNGE1NTY0OGNlMTc1NWM2MzMxNWRjMWVlZjliY2IyZCJ9fX0=
       cached-skin-uuid-name: canis_minor
       cached-skin-uuid: 200392a5-4a96-4b19-b02b-4b0f2c767322
       respawn-delay: 10
       protected: false
-      player-skin-signature: UeRnVXIP48ttamCuPwFNFHwWlaCdDZDMIXFLcAekSdidyIQ06B698wxdfsN6HbxV5oqtdKajUnVj6g+jlTwILBxXAH1o9szQHXkEIYrC0rimc1qTnJ/U3OeRslJgT9j1+9fSowRX4QEYoZn00RhUwv7wcvzVFq+f4WtkHCcj3/yaRIcg0/u1PaDO8JTQpqgoIJgYlJIccIC6u6JnXZIQxLwAsyUrbL301/2g+EUah3OIVErItRCrdRyg/OVWoLWnEuOs0ZpaWtsmgGNCTWsy7cWYcP1rc9O3DHox6Xht9CHzklOL6olqzKIfEpryMSJ2mhBUncsJvd+HIn5oBmVjjLLpJNc691+6KpZEOkPmbL50383hcjyJvm+quaF5JCZJPlu1+oWzcI0P0yFF6smkr5nbPCf2Wjnz65KrwcDAkF3bD0+WHGCwa4mxX6oV9zYwI8qQTUnrhonPwlxYN6e3Qt+qDyBSGn/0vm3hjVWHQ+CXqsnNjmACsuFzuSw9PFvb77QUpERhQJHYvLW5xi8XA+bubPyF3HkYgTA+Sg95PCWKDC1V4rmSb5meT2DzF6aNm9X/Os3Lovf4H4KuKJjbn7ywUDlFlik5DGPHYNZodecAWIM8n/GYtGsb0Z8t6YCC305n4KWoe1UlzL7fhGA/aX4imdMcRnF3My/gloaCtWo=
+      player-skin-signature: nUGvCELTfjaSQVkS1A8HpKjK9xCrFSgKf+A0c7llPn/DdHjPFae93uAYNCH9FGc6bzp0KNuzJtjy/mz289Bcbak3TQkrfnKcu50yUc2vpUecQtEnWRQSGglb8RF6AqfV5eXP/Dfxy5oejMfnOTGh8iVm6GaRAsexWrHGu90MR4McOv7UbBovy6jb7hZor9cZU02S0CFkK2+UHkIv+2vKBtDo5MLSHnnZaL2CQvgpg6OPf79OxEoMNjd+YD0U92gAfx0l8/4XnZqdkPmsKlmD6HF3jmeJ7cVJUAgRyD30t6viwZuXODuEwmarXCTJE3KnbHw+9fRZT4hQ70WewR+tQPXXsome28aLLiOKxUcpaHOVJEWBuMWhO1KDXbc0w1vDVMhXUKLKrZ5v8bu2i/FDEnlKNzP/84Mzkn0trMa8aRXnQimYQjkY6UY0nWxyzw7JCw5syjkVUkzTumgYnB404/T36qHM12OK8I5PrjDeF5FdXuqnyCqt/AZDXpogx6FAc8d0c9ZbwOS1ESPjz/Qb8sRXLIjZ6uOcqHegjK5YF0L4g36dOcod44EgV3ZYq9tLMLLLhwpJDSXRHK8RtNxf1Re4aioiF1Yi3D7IEmh6zHWDYGqVIAwwzZAigD9VFc1ZtKiEMVYh3w/XxDFY5jyZgFdYMQpte1y7eQXaxTZ+q3Q=
     name: canis_minor
     uuid: 7274a5b4-e3d8-442f-bea5-587e5417a632
     traits:
@@ -623,8 +623,8 @@ npc:
                 pitch: '0.0'
         provider: linear
       sentinel:
-        stats_ticksSpawned: 4584181
-        stats_timesSpawned: 297
+        stats_ticksSpawned: 4602933
+        stats_timesSpawned: 300
         stats_arrowsFired: 0
         stats_potionsThrow: 0
         stats_fireballsFired: 0
@@ -633,8 +633,8 @@ npc:
         stats_skullsThrown: 0
         stats_pearlsUsed: 0
         stats_punches: 400
-        stats_attackAttempts: 3597
-        stats_damageTaken: 3731.452635818715
+        stats_attackAttempts: 3613
+        stats_damageTaken: 3772.452635818715
         stats_damageGiven: 219.16799783706665
         range: 20.0
         damage: -1.0
@@ -667,10 +667,10 @@ npc:
           '0': OWNER
       location:
         world: world
-        x: '138.0539'
-        y: '63.0042'
-        z: '22.9781'
-        yaw: '289.1534423828125'
+        x: '145.468'
+        y: '62.6048'
+        z: '30.5291'
+        yaw: '143.73672485351562'
         pitch: '0.0'
       spawned: true
       lookclose:
@@ -695,7 +695,7 @@ npc:
       owner:
         owner: canis_minor
         uuid: 3747430b-9e6e-3962-aa13-da9f27749789
-    traitnames: type,equipment,spawned,inventory,location,gravity,sentinel,waypoints,owner
+    traitnames: spawned,waypoints,owner,inventory,type,sentinel,location,gravity,equipment
     navigator:
       speedmodifier: '0.800000011920929'
       avoidwater: false
