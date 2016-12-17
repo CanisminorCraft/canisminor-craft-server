@@ -49,8 +49,8 @@ world-settings:
       flat-bedrock: false
     remove-corrupt-tile-entities: false
     use-chunk-inhabited-timer: true
-    portal-search-radius: 128
     optimize-explosions: false
+    portal-search-radius: 128
     save-queue-limit-for-auto-save: 50
     max-auto-save-chunks-per-tick: 24
     delay-chunk-unloads-by: 10s
