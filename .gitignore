@@ -7,6 +7,7 @@ yarn.lock
 .log
 *.dat
 
+
 # extra
 /_build/
 
@@ -20,8 +21,20 @@ yarn.lock
 usercache.json
 
 # plugin
-/plugins/**/*
-!/plugins/*.yml
+/plugins/*
+!/plugins/*.jar
+!/plugins/**/
+/plugins/**/save.yml
+/plugins/**/saves.yml
+/plugins/**/cache
+/plugins/**/worlds
+/plugins/**/Skins
+/plugins/**/lastupdate
+/plugins/**/backup
+/plugins/**/flatfile
+/plugins/**/userdata
+/plugins/**/*.csv
+/plugins/**/ids-by-ip.txt
 /plugins/dynmap/*
 !/plugins/dynmap/*.txt
 !/plugins/dynmap/web/

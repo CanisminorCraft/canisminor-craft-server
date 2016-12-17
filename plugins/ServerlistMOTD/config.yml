@@ -5,8 +5,8 @@
 # Have fun! Kind regards, Strumswell.
 Motd:
   Message:
-    Regulars: '&2Welcome back, &e%player%&2! %line%&aIt''s a %weather% %time%.'
-    Newbies: '&2Welcome newbie! %line%&aIt''s a %weather% %time%.'
+    Regulars: '&2欢迎回家, &e%player%&2! %line%&a现在是个%weather%%time%.'
+    Newbies: '&2欢迎新人! %line%&f&a现在是个%weather%%time%.'
   RandomMessages:
     Enable: false
     Regulars:
@@ -32,12 +32,12 @@ Motd:
     MessageNotWhitelisted: '&cYou are &lNOT &cwhitelisted.%line%&c&oPlease contact
       the server owner.'
   TimeVariable:
-    NightText: night
-    DayText: day
+    NightText: 午夜
+    DayText: 白天
     World: world
   WeatherVariable:
-    RainText: rainy
-    SunText: clear
+    RainText: 下雨的
+    SunText: 晴朗的
     World: world
   Slots:
     FakeMaxPlayer:
