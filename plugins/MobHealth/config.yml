@@ -21,7 +21,7 @@ forceBarHide:
 - EnderDragon
 - Horse
 showbarCustomNameOnly: true
-alwaysVisable: true
+alwaysVisable: false
 usePermissions: false
 disablePlayers: false
 disableMonsters: false
