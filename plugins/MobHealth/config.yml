@@ -8,9 +8,9 @@ disableChat: false
 showRPG: true
 showSideNotification: false
 healthBarSize: 4
-showPlayerHeadHealth: true
+showPlayerHeadHealth: false
 showMobHeadHealth: true
-usePercentForPlayer: true
+usePercentForPlayer: false
 useBarForMobs: true
 cleanDeathMessages: true
 hideBarForAnimal: false
@@ -20,8 +20,8 @@ forceBarHide:
 - Wither
 - EnderDragon
 - Horse
-showbarCustomNameOnly: false
-alwaysVisable: false
+showbarCustomNameOnly: true
+alwaysVisable: true
 usePermissions: false
 disablePlayers: false
 disableMonsters: false
@@ -30,7 +30,7 @@ disablePets: false
 damageDisplayType: 4
 hideNoDammage: true
 defaultToggle: true
-updateCheck: true
-doUpdate: true
+updateCheck: false
+doUpdate: false
 debugMode: false
 useActionBar: true

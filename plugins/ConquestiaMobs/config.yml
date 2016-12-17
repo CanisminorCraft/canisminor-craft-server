@@ -20,7 +20,7 @@ Naming:
   AlwaysShowName:
     Enabled: true
   Prefix:
-    Format: '[Lvl #]'
+    Format: '[Lv#]'
     Enabled: true
 Leveling:
   StartLevel: 1

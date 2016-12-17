@@ -6,57 +6,57 @@
 # %M is the mobs maxhealth.
 # %S is the name of the Heroes Skill used.
 
-spoutDamageTitle: '&f%D damage.'
-spoutDamageMessage: '%N: %H/%M.'
-spoutKilledMessage: '%N: &4Killed.'
-chatMessage: '&f%N took %D damage.  %H/%M health.'
-chatKilledMessage: '&f%N took %D damage.  &4Killed.'
-playerLabel: Health
+spoutDamageTitle: '&f%D [伤害]'
+spoutDamageMessage: '%N: [%H/%M HP]'
+spoutKilledMessage: '%N: [&4扑街&f]'
+chatMessage: <&7战斗信息&f> &6%N &f受到 &4-%D&f HP [&2%H&2/%M &fHP]
+chatKilledMessage: <&7战斗信息&f> &6%N &f受到 &4-%D&f HP [&4扑街&f]
+playerLabel: HP
 healthBarCharacter: '|'
-playerLabelPercent: '% Health'
-heroesSkillSpoutDamageTitle: '%S: &f%D damage.'
-heroesSkillSpoutDamageMessage: '%N: %H/%M.'
-heroesSkillSpoutKilledMessage: '%N: &4Killed.'
-heroesSkillChatMessage: '&f%N took %D damage from %S.  %H/%M health.'
-heroesSkillChatKilledMessage: '&f%N took %D damage from %S.  &4Killed.'
+playerLabelPercent: '% HP'
+heroesSkillSpoutDamageTitle: '%S: &f%D [伤害]'
+heroesSkillSpoutDamageMessage: '%N: [%H/%M HP]'
+heroesSkillSpoutKilledMessage: '%N: [&4扑街&f]'
+heroesSkillChatMessage: <&7战斗信息&f> &6%N &f从&b%S&f受到 &4-%D&f HP [&2%H&2/%M &fHP]
+heroesSkillChatKilledMessage: <&7战斗信息&f> &6%N &f从&b%S&f受到 &4-%D&f HP [&4扑街&f]
 RPGnotify: '%D'
-entityPig: Piggy
-entitySheep: Sheep
-entityCow: Cow
-entityMushroomCow: MooShroom
-entityChicken: Chicken
-entitySquid: Squid
-entityVillager: Villager
-entityWolf: Wolf
-entityOcelot: Cat
-entityGolem: Golem
-entitySnowman: Snow Golem
-entityIronGolem: Iron Golem
-entityBat: Bat
-entityHorse: Horse
-entitySkeletal: Horse
-entityUndead: Horse
-entityMule: Mule
-entityDonkey: Donkey
-entityWitch: Witch
-entityWither: Wither
-entityZombie: Zombie
-entityZombieBaby: Baby Zombie
-entityZombieVillager: Zombie Villager
-entityZombieVillagerBaby: Baby Zombie Villager
-entityCreeper: Creeper
-entitySkeleton: Skeleton
-entitySkeletonWither: Wither Skeleton
-entitySlime: Slime
-entitySpider: Spider
-entityCaveSpider: Cave Spider
-entityEnderDragon: Ender Dragon
-entityEnderman: Enderman
-entityGiant: Giant
-entityPigZombie: Zombie Pigman
-entitySilverfish: SilverFish
-entityBlaze: Blaze
-entityMagmaCube: MagmaCube
-entityGhast: Ghast
-entityShulker: Shulker
-entityGuardian: Guardian
+entityPig: 猪
+entitySheep: 绵羊
+entityCow: 奶牛
+entityMushroomCow: 蘑菇牛
+entityChicken: 鸡
+entitySquid: 鱿鱼
+entityVillager: 村民
+entityWolf: 狼
+entityOcelot: 猫
+entityGolem: 傀儡
+entitySnowman: 雪人
+entityIronGolem: 钢铁傀儡
+entityBat: 蝙蝠
+entityHorse: 马
+entitySkeletal: 骷髅马
+entityUndead: 僵尸马
+entityMule: 骡子
+entityDonkey: 驴
+entityWitch: 巫师
+entityWither: 凋零
+entityZombie: 僵尸
+entityZombieBaby: 僵尸正太
+entityZombieVillager: 僵尸村民
+entityZombieVillagerBaby: 僵尸村民正太
+entityCreeper: 基基怪
+entitySkeleton: 骷髅
+entitySkeletonWither: 凋零骷髅
+entitySlime: 史莱姆
+entitySpider: 蜘蛛
+entityCaveSpider: 洞穴蜘蛛
+entityEnderDragon: 末影龙
+entityEnderman: 小黑
+entityGiant: 僵尸巨人
+entityPigZombie: 僵尸猪人
+entitySilverfish: 囊虫
+entityBlaze: 烈焰怪
+entityMagmaCube: 熔岩史莱姆
+entityGhast: 幽灵
+entityShulker: 潜匿贝
+entityGuardian: 保护者
