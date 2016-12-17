@@ -10,6 +10,7 @@ ids-by-ip.txt
 messages_en.properties
 server.properties
 paper.yml
+spigot.yml
 
 # extra
 /_build/
@@ -46,3 +47,4 @@ usercache.json
 !/plugins/dynmap/texturepacks/*
 !/plugins/dynmap/web/tiles/
 /plugins/dynmap/web/tiles/*
+/plugins/ehd/manager/players/*
