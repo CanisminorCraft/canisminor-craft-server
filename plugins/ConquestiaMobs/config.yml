@@ -1,12 +1,12 @@
 Stats:
   Health:
-    Multiplier: 0.08
+    Multiplier: 0.04
     Enabled: true
   Experience:
     Enabled: true
-    Multiplier: 0.08
+    Multiplier: 0.04
   Damage:
-    Multiplier: 0.08
+    Multiplier: 0.04
     Enabled: true
 MobArena:
   WaveLeveling: false
