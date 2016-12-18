@@ -13,6 +13,7 @@ paper.yml
 spigot.yml
 playerdata/
 playerdata
+world_backup
 
 # extra
 /_build/

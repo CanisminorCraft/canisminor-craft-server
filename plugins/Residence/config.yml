@@ -109,9 +109,8 @@ Global:
     # Show aditional message in title message area when player is teleporting to residence
     TeleportTitleMessage: true
   RandomTeleportation:
+    # World name to use this feature. Add annother one with appropriate name to enable random teleportation
     world:
-      # World to use this function, set main residence world
-      WorldName: world
       # Max coordinate to teleport, setting to 1000, player can be teleported between -1000 and 1000 coordinates
       MaxCoord: 1000
       # If maxcord set to 1000 and mincord to 500, then player can be teleported between -1000 to -500 and 1000 to 500 coordinates
@@ -307,7 +306,7 @@ Global:
   PreventSubZoneRemoval: true
   # Setting this to false will cause residence to continue to load even if a error is detected in the save file.
   StopOnSaveFault: true
-  ResidenceNameRegex: '[^a-zA-Z0-9\-\_]'
+  ResidenceNameRegex: '[^a-zA-Z0-9-_]'
   # Setting this to true sends a message to the console every time Residence does a rent expire check or a lease expire check.
   ShowIntervalMessages: false
   # Setting this to true sends a tutorial message to the new player when he places chest on ground.
