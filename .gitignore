@@ -23,6 +23,7 @@ spigot.yml
 # other
 /logs/
 usercache.json
+/data/
 
 # plugin
 /plugins/*
@@ -48,3 +49,7 @@ usercache.json
 !/plugins/dynmap/web/tiles/
 /plugins/dynmap/web/tiles/*
 /plugins/ehd/manager/players/*
+/plugins/UltraAuth/data/
+/plugins/UltraAuth/players/
+/plugins/dynmap/ids-by-ip.txt
+/plugins/Citizens/saves.yml
