@@ -1,0 +1,21 @@
+Prefix: '<&2CMC&f>&f '
+msg:
+  login: '请输入 &a/login <密码> &f进行登录'
+  register: '请输入 &a/register <密码> &f进行注册'
+  registered: '&a注册成功!'
+  loggedin: '&a登录成功!'
+  playernotfound: '&c没有找到玩家!'
+  invalidpassword: '&c密码错误!'
+  updatepasswords_admin: '&a密码更改成功!'
+  updatepasswords_user: '&a密码更改成功! 请重新登录!'
+  allreadyregistered: '&a你的账号已曾注册!'
+  allreadyloginin: '&a你的账号已经登录!'
+  min_len_pass: '&c你的密码必须多余 %len% 字符!'
+  max_len_pass: '&c你的密码必须少于 %len% 字符!'
+location:
+  world: world
+  x: 0.0
+  y: 64.0
+  z: 0.0
+  pitch: 21.599981
+  yaw: -268.95
