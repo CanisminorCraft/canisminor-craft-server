@@ -10,7 +10,7 @@ EnableTransactionLog: false
 SearchSubfoldersForShops: false
 ServerPingingDelay: 20
 AllowUnsafeEnchantments: false
-DisableUpdateNotifications: false
+DisableUpdateNotifications: true
 MultiplierGroups:
   Enabled: false
   List:

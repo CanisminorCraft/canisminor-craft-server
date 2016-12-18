@@ -4,12 +4,12 @@ Global:
   # DONT change this if you are not sure what you doing
   UUIDConvertion: true
   # If you running offline server, better to check this as true. This will help to solve issues with changing players UUID.
-  OfflineMode: false
+  OfflineMode: true
   # Players with residence.versioncheck permission node will be noticed about new residence version on login
   versionCheck: true
   # This loads the <language>.yml file in the Residence Language folder
   # All Residence text comes from this file. (NOT DONE YET)
-  Language: English
+  Language: Chinese
   # Wooden Hoe is the default selection tool for Residence.
   # You can change it to another item ID listed here: http://www.minecraftwiki.net/wiki/Data_values
   SelectionToolId: 280

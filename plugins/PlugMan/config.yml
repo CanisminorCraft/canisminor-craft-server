@@ -18,7 +18,7 @@ use-metrics: true
 #
 # This takes a value of either "true" or "false".
 ###
-update-alerts: true
+update-alerts: false
 
 ###
 # What type of Updater, if any, we should choose.
@@ -28,4 +28,4 @@ update-alerts: true
 # force: Force a download of the latest file every time so you always have the most up-to-date version.
 # none: Ignore Updater altogether.
 ###
-updater-type: download
+updater-type: none
