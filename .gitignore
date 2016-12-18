@@ -56,3 +56,4 @@ usercache.json
 /plugins/dynmap/ids-by-ip.txt
 /plugins/Citizens/saves.yml
 /plugins/AuthMe/playerdata/
+/plugins/Residence/Save/
