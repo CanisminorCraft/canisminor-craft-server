@@ -11,6 +11,8 @@ messages_en.properties
 server.properties
 paper.yml
 spigot.yml
+playerdata/
+playerdata
 
 # extra
 /_build/
@@ -53,3 +55,4 @@ usercache.json
 /plugins/UltraAuth/players/
 /plugins/dynmap/ids-by-ip.txt
 /plugins/Citizens/saves.yml
+/plugins/AuthMe/playerdata/
