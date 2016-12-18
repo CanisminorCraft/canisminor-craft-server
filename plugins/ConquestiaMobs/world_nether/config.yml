@@ -1,0 +1,32 @@
+Enabled: false
+Spawning:
+  BlockedMobs:
+  - CAVE_SPIDER
+  - CREEPER
+  - GIANT
+  - ZOMBIE
+  - GUARDIAN
+  - IRON_GOLEM
+  - WITHER
+  - SILVERFISH
+  - SLIME
+  - SNOWMAN
+  - SPIDER
+  - WITCH
+  - MAGMA_CUBE
+  - HORSE
+  - BAT
+  - PIG
+  - COW
+  - MUSHROOM_COW
+  - CHICKEN
+  - OCELOT
+  - RABBIT
+  - SHEEP
+  - SQUID
+  - VILLAGER
+  - WOLF
+  - ENDERMITE
+  - ENDERMAN
+  - ENDER_DRAGON
+  - SHULKER

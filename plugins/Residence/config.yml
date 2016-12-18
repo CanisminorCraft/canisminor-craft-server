@@ -2,7 +2,7 @@
 Global:
   # Starts UUID conversion on plugin startup
   # DONT change this if you are not sure what you doing
-  UUIDConvertion: true
+  UUIDConvertion: false
   # If you running offline server, better to check this as true. This will help to solve issues with changing players UUID.
   OfflineMode: true
   # Players with residence.versioncheck permission node will be noticed about new residence version on login
