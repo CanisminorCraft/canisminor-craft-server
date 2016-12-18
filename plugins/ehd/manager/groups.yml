@@ -1,10 +1,23 @@
 groups:
   names:
+  - Vip
   - Default
   Default:
     name: Default
     color: '&2'
     prefix: '&2村民&f'
+    permissions:
+    - ehd.home
+    - ehd.home.set
+    - ehd.home.delete
+    - woodcutter.use
+    - mcmmo.defaults
+    - BossShop.open.sign
+    access: []
+  Vip:
+    name: Vip
+    color: '&b'
+    prefix: '&b守夜人&f'
     permissions:
     - ehd.home
     - ehd.home.set

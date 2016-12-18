@@ -75,7 +75,7 @@ settings:
         - /email
         - /captcha
         # Max number of allowed registrations per IP (default: 1)
-        maxRegPerIp: 1
+        maxRegPerIp: 10
         # Max allowed username length
         maxNicknameLength: 16
         # When this setting is enabled, online players can't be kicked out
