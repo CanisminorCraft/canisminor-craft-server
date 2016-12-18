@@ -1,9 +1,0 @@
-# ANTIBOT IS IN BETA. USE AT YOUR OWN RISK. PLEASE REPORT ANY #BUGS. MAX ACCOUNTS IS NOT DONE. IT WILL NOT WORK. THANK YOU
-settings:
-  antibot: true
-  maxaccounts:
-    amount: 2
-  kickonwrongpassword: true
-  cmd: none
-  min_len: 1
-  max_len: 10
