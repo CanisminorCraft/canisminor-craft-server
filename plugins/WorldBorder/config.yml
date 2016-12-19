@@ -20,8 +20,8 @@ worlds:
   world:
     x: 0.0
     z: 0.0
-    radiusX: 8888
-    radiusZ: 8888
+    radiusX: 5000
+    radiusZ: 5000
     wrapping: false
   world_nether:
     x: 0.0
