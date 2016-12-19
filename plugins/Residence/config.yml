@@ -183,7 +183,7 @@ Global:
       # With this set to true, water flow outside residence is blocked
       NoWaterFlow: false
       Worlds:
-      # - world
+      - world
     Place:
       # Level from witch one to start block lava and water place
       # This don't have effect in residence area
@@ -193,7 +193,7 @@ Global:
       # With this set to true, playrs cant place water outside residence
       NoWaterPlace: false
       Worlds:
-      # - world
+      - world
     BlockFall:
       # With this set to true, falling blocks will be deleted if they will land in different area
       Use: false
