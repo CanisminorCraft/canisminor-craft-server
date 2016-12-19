@@ -119,7 +119,7 @@ components:
     offlineminzoom: 0
     maxofflinetime: 30
     # (optional) layer for showing player's spawn beds
-    showspawnbeds: true
+    showspawnbeds: false
     spawnbedlabel: "Spawn Beds"
     spawnbedicon: bed
     spawnbedhidebydefault: true
@@ -147,7 +147,7 @@ components:
   - class: org.dynmap.ClientComponent
     type: playermarkers
     showplayerfaces: true
-    showplayerhealth: true
+    showplayerhealth: false
     # If true, show player body too (only valid if showplayerfaces=true
     showplayerbody: false
     # Option to make player faces small - don't use with showplayerhealth
@@ -389,12 +389,12 @@ trusted-proxies:
   - "0:0:0:0:0:0:0:1"
   
 # Join/quit message format for web chat: set to "" to disable notice on web UI
-joinmessage: "%playername% joined"
-quitmessage: "%playername% quit"
+joinmessage: "%playername% 登录"
+quitmessage: "%playername% 退出"
 
-spammessage: "You may only chat once every %interval% seconds."
+spammessage: "冷却 %interval% 秒."
 # format for messages from web: %playername% substitutes sender ID (typically IP), %message% includes text
-webmsgformat: "&color;2[WEB] %playername%: &color;f%message%"
+webmsgformat: "&color;2[卫星地图] %playername%: &color;f%message%"
 
 # Control whether layer control is presented on the UI (default is true)
 showlayercontrol: true
@@ -423,10 +423,10 @@ round-coordinates: true
 msg:
     maptypes: "Map Types"
     players: "Players"
-    chatrequireslogin: "Chat Requires Login"
-    chatnotallowed: "You are not permitted to send chat messages"
-    hiddennamejoin: "Player joined"
-    hiddennamequit: "Player quit"
+    chatrequireslogin: "聊天需要登录"
+    chatnotallowed: "你没有权限发送信息"
+    hiddennamejoin: "Player 上线"
+    hiddennamequit: "Player 离线"
 
 # URL for client configuration (only need to be tailored for proxies or other non-standard configurations)
 url:
@@ -443,7 +443,7 @@ url:
     # tiles base URL
     #tiles: "tiles/"
     # markers base URL
-    #markers: "tiles/"
+    markers: "http://canisminor.cc/img/dynmap/"
     
 # Spout support controls
 spout:
