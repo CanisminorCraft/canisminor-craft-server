@@ -44,6 +44,7 @@ usercache.json
 /plugins/**/userdata
 /plugins/**/*.csv
 /plugins/**/ids-by-ip.txt
+/plugins/SkinsRestorer/Players/
 /plugins/dynmap/*
 !/plugins/dynmap/*.txt
 !/plugins/dynmap/web/
