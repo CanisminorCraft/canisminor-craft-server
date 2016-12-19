@@ -10,24 +10,24 @@ layer:
   boost: false
 use3dregions: false
 resdepth: 2
-infowindow: <div class="infowindow"><span style="font-size:120%;">%regionname%</span><br /> Owner <span style="font-weight:bold;">%playerowners%</span><br />Flags<br /><span style="font-weight:bold;">%flags%</span></div>
+infowindow: <div class="infowindow"><span style="font-size:120%;">%regionname%</span><br />房主<span style="font-weight:bold;">%playerowners%</span><br />权限<br /><span style="font-weight:bold;">%flags%</span></div>
 regionstyle:
-  strokeColor: '#FF0000'
-  strokeOpacity: 0.8
-  strokeWeight: 3
-  fillColor: '#FF0000'
-  fillOpacity: 0.35
-  forRentStrokeColor: '#007F00'
-  forSaleStrokeColor: '#007F7F'
+  strokeColor: '#48A0DC'
+  strokeOpacity: 0.4
+  strokeWeight: 2
+  fillColor: '#48A0DC'
+  fillOpacity: 0.2
+  forRentStrokeColor: '#7BC53B'
+  forSaleStrokeColor: '#7BC53B'
   boost: false
 visibleregions: []
 hiddenregions: []
 custstyle:
   customizedregion:
-    strokeColor: '#00FF00'
+    strokeColor: '#7BC53B'
     y: 78
     boost: false
   anotherregion:
     subzone:
-      strokeColor: '#007F00'
+      strokeColor: '#7BC53B'
       boost: false
