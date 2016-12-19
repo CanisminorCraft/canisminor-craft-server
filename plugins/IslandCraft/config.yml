@@ -5,10 +5,10 @@ verbose-logging: false
 # Same available options as database settings in bukkit.yml
 # http://wiki.bukkit.org/Bukkit.yml#database
 database:
-  driver: org.sqlite.JDBC
-  url: jdbc:sqlite:{DIR}{NAME}.db
-  username: bukkit
-  password: walrus
+  driver: com.mysql.jdbc.Driver
+  url: jdbc:mysql://127.0.0.1:3306/minecraft
+  username: root
+  password: root
   isolation: SERIALIZABLE
 worlds:
   # By default IslandCraft is enabled on "world_islandcraft".
