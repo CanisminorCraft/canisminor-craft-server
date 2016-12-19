@@ -36,8 +36,8 @@ ticks-per:
   autosave: 10000
 aliases: now-in-commands.yml
 database:
-  username: bukkit
+  username: root
   isolation: SERIALIZABLE
-  driver: org.sqlite.JDBC
-  password: walrus
-  url: jdbc:sqlite:{DIR}{NAME}.db
+  driver: com.mysql.jdbc.Driver
+  password: root
+  url: jdbc:mysql://127.0.0.1:3306/minecraft
