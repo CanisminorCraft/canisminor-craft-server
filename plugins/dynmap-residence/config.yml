@@ -10,7 +10,7 @@ layer:
   boost: false
 use3dregions: false
 resdepth: 2
-infowindow: <div class="infowindow"><span style="font-size:120%;">%regionname%</span><br />房主<span style="font-weight:bold;">%playerowners%</span><br />权限<br /><span style="font-weight:bold;">%flags%</span></div>
+infowindow: <div class="infowindow res-info"><div class="res-name">%regionname%</div><div class="res-owner">房主<span>%playerowners%</span></div><div class="res-flags">权限<span>%flags%</span></div></div>
 regionstyle:
   strokeColor: '#48A0DC'
   strokeOpacity: 0.4
