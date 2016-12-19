@@ -443,7 +443,7 @@ url:
     # tiles base URL
     #tiles: "tiles/"
     # markers base URL
-    markers: "http://canisminor.cc/img/dynmap/"
+    # markers: "http://canisminor.cc/img/dynmap/"
     
 # Spout support controls
 spout:
