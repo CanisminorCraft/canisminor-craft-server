@@ -136,7 +136,7 @@ MySQL:
     Database:
         User_Name: root
         User_Password: root
-        Name: DataBaseName
+        Name: mcmmo
         TablePrefix: mcmmo_
         # This setting is the max simultaneous mysql connections allowed at a time, needs to be
         # high enough to support multiple player logins in quick succession
