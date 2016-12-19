@@ -11,8 +11,9 @@ SingleCommandCost:
 - sethome#100
 - home#100
 - back#200
-- tp#200
 - tpa#20
+- spawn#50
+- warp#20
 
 
 #Commands should be in all lower case, DO NOT PUT A SLASH IN FRONT OF THE COMMANDS
