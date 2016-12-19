@@ -1,7 +1,7 @@
 DataSource:
     # What type of database do you want to use?
     # Valid values: sqlite, mysql
-    backend: sqlite
+    backend: mysql
     # Enable database caching, should improve database performance
     caching: true
     # Database location
@@ -9,13 +9,13 @@ DataSource:
     # Database Port
     mySQLPort: '3306'
     # Username about Database Connection Infos
-    mySQLUsername: authme
+    mySQLUsername: root
     # Password about Database Connection Infos
-    mySQLPassword: '12345'
+    mySQLPassword: 'root'
     # Database Name, use with converters or as SQLITE database name
-    mySQLDatabase: authme
+    mySQLDatabase: minecraft
     # Table of the database
-    mySQLTablename: authme
+    mySQLTablename: authme_
     # Column of IDs to sort data
     mySQLColumnId: id
     # Column for storing or checking players nickname
