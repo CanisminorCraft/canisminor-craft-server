@@ -41,7 +41,7 @@ components:
     sendhealth: true
     sendposition: true
     allowwebchat: true
-    webchat-interval: 5
+    webchat-interval: 10
     hidewebchatip: false
     trustclientname: false
     includehiddenplayers: false
@@ -217,10 +217,10 @@ usenormalthreadpriority: true
 saverestorepending: true
 
 # Save period for pending jobs (in seconds): periodic saving for crash recovery of jobs
-save-pending-period: 900
+save-pending-period: 2000
 
 # Zoom-out tile update period - how often to scan for and process tile updates into zoom-out tiles (in seconds)
-zoomoutperiod: 90
+zoomoutperiod: 200
 
 # Control whether zoom out tiles are validated on startup (can be needed if zoomout processing is interrupted, but can be expensive on large maps)
 initial-zoomout-validate: true
@@ -228,7 +228,7 @@ initial-zoomout-validate: true
 # Default delay on processing of updated tiles, in seconds.  This can reduce potentially expensive re-rendering
 # of frequently updated tiles (such as due to machines, pistons, quarries or other automation).  Values can
 # also be set on individual worlds and individual maps.
-tileupdatedelay: 90
+tileupdatedelay: 200
 
 # Tile hashing is used to minimize tile file updates when no changes have occurred - set to false to disable
 enabletilehash: true
@@ -322,7 +322,7 @@ exportpath: export
 webserver-port: 8123
 
 # Maximum concurrent session on internal web server - limits resources used in Bukkit server
-max-sessions: 30
+max-sessions: 20
 
 # Disables Webserver portion of Dynmap (Advanced users only)
 disable-webserver: false
@@ -336,13 +336,13 @@ login-enabled: false
 login-required: false
 
 # Period between tile renders for fullrender, in seconds (non-zero to pace fullrenders, lessen CPU load)
-timesliceinterval: 4
+timesliceinterval: 10
 
 # Maximum chunk loads per server tick (1/20th of a second) - reducing this below 90 will impact render performance, but also will reduce server thread load
-maxchunkspertick: 200
+maxchunkspertick: 400
 
 # Progress report interval for fullrender/radiusrender, in tiles.  Must be 100 or greater
-progressloginterval: 100
+progressloginterval: 200
 
 # Parallel fullrender: if defined, number of concurrent threads used for fullrender or radiusrender
 #   Note: setting this will result in much more intensive CPU use, some additional memory use.  Caution should be used when
@@ -350,12 +350,12 @@ progressloginterval: 100
 #parallelrendercnt: 4
 
 # Interval the browser should poll for updates.
-updaterate: 2000
+updaterate: 4000
 
 # If nonzero, server will pause fullrender/radiusrender processing when 'fullrenderplayerlimit' or more users are logged in
-fullrenderplayerlimit: 0
+fullrenderplayerlimit: 4
 # If nonzero, server will pause update render processing when 'updateplayerlimit' or more users are logged in
-updateplayerlimit: 0
+updateplayerlimit: 4
 # Target limit on server thread use - msec per tick
 per-tick-time-limit: 50
 # If TPS of server is below this setting, update renders processing is paused
