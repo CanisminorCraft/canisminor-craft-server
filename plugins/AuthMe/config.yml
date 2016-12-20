@@ -237,7 +237,7 @@ settings:
         # It is CaseSensitive!
         UnrestrictedName: []
     # Message language, available : en, de, br, cz, pl, fr, ru, hu, sk, es, zhtw, fi, zhcn, lt, it, ko, pt
-    messagesLanguage: en
+    messagesLanguage: zhcn
     # Force these commands after /login, without any '/', use %p for replace with player name
     forceCommands: []
     # Force these commands after /login as a server console, without any '/', use %p for replace with player name
@@ -251,7 +251,7 @@ settings:
     # {PLAYER}: player name, {ONLINE}: display number of online players, {MAXPLAYERS}: display server slots,
     # {IP}: player ip, {LOGINS}: number of players logged, {WORLD}: player current world, {SERVER}: server name
     # {VERSION}: get current bukkit version, {COUNTRY}: player country
-    useWelcomeMessage: true
+    useWelcomeMessage: false
     # Do we need to broadcast the welcome message to all server or only to the player? set true for server or false for player
     broadcastWelcomeMessage: false
     # Should we delay the join message and display it once the player has logged in?
@@ -270,7 +270,7 @@ settings:
     # Log level: INFO, FINE, DEBUG. Use INFO for general messages,
     # FINE for some additional detailed ones (like password failed),
     # and DEBUG for debug messages
-    logLevel: 'FINE'
+    logLevel: 'INFO'
     # By default we schedule async tasks when talking to the database
     # If you want typical communication with the database to happen synchronously, set this to false
     useAsyncTasks: true
@@ -389,7 +389,7 @@ Email:
     emailOauth2Token: ''
 Hooks:
     # Do we need to hook with multiverse for spawn checking?
-    multiverse: true
+    multiverse: false
     # Do we need to hook with BungeeCord ?
     bungeecord: false
     # Send player to this BungeeCord server after register/login
@@ -419,7 +419,7 @@ Protection:
     # Enable some servers protection ( country based login, antibot )
     enableProtection: false
     # Apply the protection also to registered usernames
-    enableProtectionRegistered: true
+    enableProtectionRegistered: false
     # Countries allowed to join the server and register, see http://dev.bukkit.org/bukkit-plugins/authme-reloaded/pages/countries-codes/ for countries' codes
     # PLEASE USE QUOTES!
     countries:

@@ -33,14 +33,14 @@ MultiBungee:
 # MySQL database for large servers
 # or just to boost the performance
 MySQL:
-  Enabled: false
+  Enabled: true
   Host: localhost
   Port: 3306
-  Database: db
+  Database: minecraft
   SkinTable: Skins
   PlayerTable: Players
   Username: root
-  Password: pass
+  Password: root
   
 Updater:
   Enabled: true

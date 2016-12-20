@@ -9,7 +9,7 @@
 #          All possible mob names: https://goo.gl/cch8YK             #
 #--------------------------------------------------------------------#
 settings:
-  auto-update: true
+  auto-update: false
   config-version: 9
   disable-waterlife: true
   keep-spawn-in-memory: true
