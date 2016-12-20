@@ -16,7 +16,7 @@ Groups:
            # The maximum number of blocks a Residence can be, East to West (X).
            MaxEastWest: 100
            # (Optional) The minimum number of blocks a Residence can be, East to West (X).
-           MinEastWest: 100
+           MinEastWest: 3
            # The maximum number of blocks a Residence can be, North to South (Z).
            MaxNorthSouth: 100
            # (Optional) The minimum number of blocks a Residence can be, North to South (Z).

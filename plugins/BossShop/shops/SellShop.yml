@@ -61,7 +61,22 @@ shop:
     Price:
       -
         - "id:13"
+        - "amount:1"
+    PriceType: item
+    Reward: 20
+    RewardType: money
+  Clownfish:
+    ExtraPermission: ""
+    InventoryLocation: 5
+    MenuItem:
+      - "id:349:2"
+      - "amount:1"
+      - "lore:&2卖出价格: $20"
+    Message: "&e<CMC> 你卖出 %price% 得到 $%reward%!"
+    Price:
+      -
+        - "id:349:2"
         - "amount:64"
     PriceType: item
-    Reward: 32
+    Reward: 20
     RewardType: money
