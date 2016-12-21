@@ -11,7 +11,7 @@ colors.setTheme(config.color);
 
 server.on('console', function (str) {
     colorsConsole(str)
-    const chat = str.match(/]: <([\w]+)>(.*)/);
+    const chat = str.match(/]: \[[\w]+\]<([\w]+)>(.*)/);
     if (chat) {
         var req = http.request(config.tuling, function (res) {
             res.setEncoding('utf8');
