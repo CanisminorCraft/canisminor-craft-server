@@ -1,6 +1,5 @@
 groups:
   names:
-  - Vip
   - Default
   Default:
     name: Default
@@ -12,15 +11,10 @@ groups:
     - ehd.home.delete
     - mcmmo.defaults
     - BossShop.open.sign
-    access: []
-  Vip:
-    name: Vip
-    color: '&b'
-    prefix: '&b守夜人&f'
-    permissions:
-    - ehd.home
-    - ehd.home.set
-    - ehd.home.delete
-    - mcmmo.defaults
-    - BossShop.open.sign
+    - quickshop.use
+    - quickshop.create.buy
+    - quickshop.create.sell
+    - quickshop.create.changeprice
+    - quickshop.create.double
+    - quickshop.find
     access: []

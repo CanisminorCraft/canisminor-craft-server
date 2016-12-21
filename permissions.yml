@@ -4,3 +4,9 @@ server.basics:
   children:
     mcmmo.defaults: true
     BossShop.open.sign: true
+    quickshop.use: true
+    quickshop.create.buy: true
+    quickshop.create.sell: true
+    quickshop.create.changeprice: true
+    quickshop.create.double: true
+    quickshop.find: true
