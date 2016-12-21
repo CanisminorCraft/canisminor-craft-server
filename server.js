@@ -17,7 +17,7 @@ server.on('console', function (str) {
             res.setEncoding('utf8');
             res.on('data', function (chunk) {
                 var text = JSON.parse(chunk).text
-                server.send(`say ` + text)
+                server.send(`bc ` + text)
             });
         });
         req.write(
