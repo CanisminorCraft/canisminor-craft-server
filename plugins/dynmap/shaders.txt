@@ -6,7 +6,7 @@ shaders:
   # Default shader - used if shader not specified or invalid
   - class: org.dynmap.hdmap.TexturePackHDShader
     name: default
-    texturepack: canisminor.zip
+    texturepack: standard
 
   # - class: org.dynmap.hdmap.TexturePackHDShader
   #   name: CanisminorCraft
