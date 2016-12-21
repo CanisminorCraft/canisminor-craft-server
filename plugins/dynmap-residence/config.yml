@@ -1,6 +1,6 @@
 # dynmap-residence configuration
 update:
-  period: 300
+  period: 8000
   onchange: true
 layer:
   name: Residence
