@@ -61,9 +61,9 @@ shop:
     Price:
       -
         - "id:13"
-        - "amount:1"
+        - "amount:64"
     PriceType: item
-    Reward: 20
+    Reward: 32
     RewardType: money
   Clownfish:
     ExtraPermission: ""
