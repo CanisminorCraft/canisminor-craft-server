@@ -76,7 +76,7 @@ shop:
     Price:
       -
         - "id:349:2"
-        - "amount:64"
+        - "amount:1"
     PriceType: item
     Reward: 20
     RewardType: money
