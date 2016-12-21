@@ -6,7 +6,7 @@ worlds:
         title: "Flat"
         prefix: flat
         perspective: iso_S_90_vlowres
-        shader: stdtexture
+        shader: default
         lighting: shadows
         mapzoomin: 2
   - name: world_nether
@@ -16,7 +16,7 @@ worlds:
         title: "Flat"
         prefix: flat
         perspective: iso_S_90_vlowres
-        shader: stdtexture
+        shader: default
         lighting: nethershadows
         background: "#300806"
         mapzoomin: 2
@@ -26,7 +26,8 @@ worlds:
         name: flat
         title: "Flat"
         prefix: flat
-        shader: stdtexture
+        shader: default
+        lighting: night
         perspective: iso_S_90_vlowres
         mapzoomin: 2
 
