@@ -36,7 +36,7 @@ ExtraHardMode:
       # This is to encourage caving, by making branch mining unprofitable
       Inhibit Tunneling:
         # If hardened blocks can only be broken by specific tools
-        Enable: true
+        Enable: false
         # These blocks will be treated as hardened
         Hardened Blocks:
         - STONE
@@ -52,7 +52,7 @@ ExtraHardMode:
       Breaking Blocks Softens Surrounding Stone:
         # Cave-ins are a persistent threat. Mining ore softens the stone around it, which can then fall and injure the careless player.
         # Dirt and grass, which is often compacted into a solid mass in cavern ceilings and floors, will also come crashing down when disturbed.
-        Enable: true
+        Enable: false
         # If the softened stone blocks should fall. They do not have to be in additional falling blocks section for this.
         Apply Physics To Weakened Stone: true
         # Ore blocks that will soften surrounding stone blocks.
@@ -72,24 +72,24 @@ ExtraHardMode:
       # No placement of torches below Defined Value. Makes for scarier caves on the lower levels. Y: 0 to disable
       No Placement Under Y: 30
       # Soft materials include sand and dirt. Idea is that players don't litter the landscape with torches.
-      No Placement On Soft Materials: true
+      No Placement On Soft Materials: false
       # When it rains there is a chance that torches will be removed in a chunk.
       # Any kind of block above the torch is enough to protect the torch
       Rain Breaks Torches: true
     Play Sounds:
       # A lava fizz when a torch's placement has been blocked.
-      Torch Fizzing: true
+      Torch Fizzing: false
       # A Ghast shriek when a creeper drops tnt.
       Creeper Tnt Warning: true
     # Tunneling in the nether will randomly set a fire. Players have to be careful
     # to not set themselves on fire.
     Breaking Netherrack Starts Fire Percent: 20
     # Blocks jumping and placing a block directly beneath you and branching out with no blocks to support
-    Limited Block Placement: true
+    Limited Block Placement: false
     # The trunk and branches of a tree will fall and potentially injure you.
     # It makes it easier to chop trees, but you have to watch out a little for the falling logs.
     # Also by making logs of branches fall down most treetops should decay naturally.
-    Better Tree Felling: true
+    Better Tree Felling: false
   Player:
     # Apply effects and damage multipliers to players
     # Bukkit effect names: http://jd.bukkit.org/rb/apidocs/org/bukkit/potion/PotionEffectType.html
@@ -138,14 +138,14 @@ ExtraHardMode:
     # After respawn, the player won't have a full health and food bar.
     Death:
       Loose Items On Death:
-        Enable: true
+        Enable: false
         # Percentage of all of the players items that will get lost on death.
         Percentage: 10
         # Damage some tools from the list instead of completely removing them.
         # Encourages players to use more valuable tools as they won't completely loose them on death.
         Damage Tools By Percentage: 30
         # If an already heavily damaged tool should be kept or completely destroyed.
-        Keep Heavily Damaged Tools: true
+        Keep Heavily Damaged Tools: false
         # Tool settings apply only to these tools
         Tools:
         - DIAMOND_SWORD
@@ -163,7 +163,7 @@ ExtraHardMode:
     # Adds a weight system to your inventory. If your inventory exceeds the weight you will be pulled down 
     # and eventually drown. This is to encourage players to use boats and make swimming up waterfalls harder.
     No Swimming When Too Heavy:
-      Enable: true
+      Enable: false
       # Set to false if you want to exempt players from drowning when swimming up 1x1 water streams.
       Block Elevators/Waterfalls: true
       # The maximum inventory weight you can have before starting to drown.
@@ -310,20 +310,20 @@ ExtraHardMode:
   Farming:
     Weak Crops:
       Enable: true
-      Loss Rate: 25
-      Infertile Deserts: true
-      Snow Breaks Crops: true
-    Cant Craft Melonseeds: true
-    No Bonemeal On Mushrooms: true
-    No Farming Nether Wart: true
-    Sheep Grow Only White Wool: true
-    Buckets Dont Move Water Sources: true
-    Animal Experience Nerf: true
-    Iron Golem Nerf: true
+      Loss Rate: 5
+      Infertile Deserts: false
+      Snow Breaks Crops: false
+    Cant Craft Melonseeds: false
+    No Bonemeal On Mushrooms: false
+    No Farming Nether Wart: false
+    Sheep Grow Only White Wool: false
+    Buckets Dont Move Water Sources: false
+    Animal Experience Nerf: false
+    Iron Golem Nerf: false
     Animal Overcrowding Control:
       Enable: true
       # Maximum amount of animals allowed in a small area before they start dying
-      Threshold: 10
+      Threshold: 16
   Additional Falling Blocks:
     Enable: false
     Break Torches: true
@@ -344,7 +344,7 @@ ExtraHardMode:
     - MYCEL
   Explosions:
     # When enabled explosions will turn surrounding stone into cobblestone 
-    Turn Stone To Cobble: true
+    Turn Stone To Cobble: false
     Physics:
       # Makes explosions uber cool by throwing blocks up into the air
       Enable: true
