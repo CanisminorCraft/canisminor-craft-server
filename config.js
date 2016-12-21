@@ -9,9 +9,20 @@ const color = {
     yellow: 'yellow',
     orange: 'magenta'
 }
+const tuling = {
+    host: 'www.tuling123.com',
+    port: 80,
+    path: '/openapi/api',
+    method: 'POST',
+    rejectUnauthorized: false,
+    headers: {
+        "Content-Type": 'application/x-www-form-urlencoded',
+    }
+};
 
 module.exports = {
     javaConfig: javaConfig,
     jar: jar,
-    color: color
+    color: color,
+    tuling:tuling
 };
