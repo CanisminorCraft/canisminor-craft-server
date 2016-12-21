@@ -1,12 +1,12 @@
 Stats:
   Health:
-    Multiplier: 0.04
+    Multiplier: 0.1
     Enabled: true
   Experience:
     Enabled: true
-    Multiplier: 0.04
+    Multiplier: 0.1
   Damage:
-    Multiplier: 0.04
+    Multiplier: 0.2
     Enabled: true
 MobArena:
   WaveLeveling: false
@@ -28,14 +28,6 @@ Leveling:
   DistancePerLevel: 25.0
   MinLevel: 1
 Spawning:
-  BlockedMobs:
-  - ENDERMITE
-  - ENDER_DRAGON
-  - GHAST
-  - SHULKER
-  - MAGMA_CUBE
-  - PIG_ZOMBIE
-  - WITHER
   LeveledMobs:
   - BLAZE
   - CAVE_SPIDER
@@ -57,3 +49,18 @@ Spawning:
   - SNOWMAN
   - SPIDER
   - WITCH
+  - ENDERMITE
+  - ENDER_DRAGON
+  - GHAST
+  - SHULKER
+  - MAGMA_CUBE
+  - PIG_ZOMBIE
+  - WITHER
+  BlockedMobs:
+  - ENDERMITE
+  - ENDER_DRAGON
+  - GHAST
+  - SHULKER
+  - MAGMA_CUBE
+  - PIG_ZOMBIE
+  - WITHER
