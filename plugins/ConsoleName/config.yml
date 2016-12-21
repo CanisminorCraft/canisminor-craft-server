@@ -3,5 +3,5 @@ overrideSayCommand: true
 enableSignBroadcast: true
 signBroadcastTool: SIGN
 prefix:
-  console: '&f<&2bot&f>'
-  default: '&f<&2bot&f>'
+  console: '&f[&6激萌&f]<bot>'
+  default: '&f[&6激萌&f]<bot>'
