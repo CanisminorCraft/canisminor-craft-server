@@ -325,7 +325,7 @@ ExtraHardMode:
       # Maximum amount of animals allowed in a small area before they start dying
       Threshold: 10
   Additional Falling Blocks:
-    Enable: true
+    Enable: false
     Break Torches: true
     # Whether a falling block that is broken by an obstructing block should drop as an item
     Drop As Items: false
