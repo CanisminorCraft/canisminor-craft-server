@@ -65,6 +65,7 @@ email_exists: '&8[&6玩家系统&8] &c恢复邮件已发送 ! 你可以丢弃它
 two_factor_create: '&8[&6玩家系统&8] &2你的代码是 %code，你可以使用 %url 来扫描'
 not_owner_error: '&8[&6玩家系统&8] &4警告！ &c你并不是此帐户持有人，请立即登出。 '
 invalid_name_case: '&8[&6玩家系统&8] &c你应该使用「%valid」而并非「%invalid」登入游戏。 '
+denied_command: '&c正式玩家才有权使用此命令!'
 # TODO recovery_code_incorrect: 'The recovery code is not correct! Use /email recovery [email] to generate a new one'
 # TODO accounts_owned_self: 'You own %count accounts:'
 # TODO denied_command: '&cIn order to use this command you must be authenticated!'
