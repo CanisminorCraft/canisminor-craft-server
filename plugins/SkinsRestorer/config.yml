@@ -1,6 +1,6 @@
 #This option disables automatic requesting & applying skins on join
 #Commands still work
-DisableOnJoinSkins: false
+DisableOnJoinSkins: true
 
 #This is for preventing skin change spam
 SkinChangeCooldown: 30
@@ -28,7 +28,7 @@ DisabledSkins:
 #
 #RedisBungee enables this option automatically
 MultiBungee:
-  Enabled: false
+  Enabled: true
 
 # MySQL database for large servers
 # or just to boost the performance
