@@ -11,7 +11,7 @@ colors.setTheme(config.color);
 
 server.on('console', function (str) {
     colorsConsole(str)
-    const chat = str.match(/]: <\[([\w]+)>(.*)/);
+    const chat = str.match(/<\[(.*)\](.*)>(.*)/);
     if (chat) {
         var req = http.request(config.tuling, function (res) {
             res.setEncoding('utf8');
@@ -23,8 +23,8 @@ server.on('console', function (str) {
         req.write(
             querystring.stringify({
                 key: '2f33e9e0d89391a29c595283995aa9a1',
-                info: chat[2],
-                userid: chat[1]
+                info: chat[3],
+                userid: chat[2]
             })
         );
         req.end();
