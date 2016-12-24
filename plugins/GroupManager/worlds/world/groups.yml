@@ -19,16 +19,12 @@ groups:
     - g:essentials_default
     - g:towny_default
     info:
-      prefix: '&e'
+      prefix: '[&e游客]&f'
       build: false
-      suffix: '[游客]'
+      suffix: ''
   Builder:
     default: false
-    permissions: []
-    inheritance:
-    - default
-    - g:essentials_builder
-    - g:towny_builder
+    permissions: 
     - mcmmo.defaults
     - BossShop.open.sign
     - quickshop.use
@@ -37,10 +33,14 @@ groups:
     - quickshop.create.changeprice
     - quickshop.create.double
     - quickshop.find
+    inheritance:
+    - default
+    - g:essentials_builder
+    - g:towny_builder
     info:
-      prefix: '&2'
+      prefix: '[&2村民&f]'
       build: true
-      suffix: '[村民]'
+      suffix: ''
   Moderator:
     default: false
     permissions: []
@@ -52,9 +52,9 @@ groups:
     - g:towny_moderator
     - g:vanish_moderator
     info:
-      prefix: '&5'
+      prefix: '[&5名媛&f]'
       build: true
-      suffix: '[名媛]'
+      suffix: ''
   Admin:
     default: false
     permissions: []
@@ -66,9 +66,9 @@ groups:
     - g:towny_admin
     - g:vanish_admin
     info:
-      prefix: '&c'
+      prefix: '[&c头牌&f]'
       build: true
-      suffix: '[头牌]'
+      suffix: ''
   Owner:
     default: false
     permissions:
