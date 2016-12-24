@@ -22,5 +22,21 @@
     "source": "§4RYozora§r",
     "expires": "forever",
     "reason": "登录失败!您的帐号已被此服务器封禁!"
+  },
+  {
+    "uuid": "1aa8d61e-8ce3-3848-9646-d7a4662b0f30",
+    "name": "guishao",
+    "created": "2016-12-24 11:05:22 +0800",
+    "source": "RYozora§r",
+    "expires": "forever",
+    "reason": "登录失败!您的帐号已被此服务器封禁!"
+  },
+  {
+    "uuid": "8dc4b477-f85b-386c-a930-0de70d8cdcd9",
+    "name": "OOLL",
+    "created": "2016-12-24 11:04:28 +0800",
+    "source": "RYozora§r",
+    "expires": "forever",
+    "reason": "登录失败!您的帐号已被此服务器封禁!"
   }
 ]
