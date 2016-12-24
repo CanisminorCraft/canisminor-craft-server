@@ -1,6 +1,0 @@
-DefaultGroup: Default
-ChangeDisplayName: true
-ChangeChat: true
-ChatDesing: '&f[%prefix%&f]<%player%> '
-DisplayDesing: '&f[%prefix%&f] %player%'
-ShowChatInConsole: true
