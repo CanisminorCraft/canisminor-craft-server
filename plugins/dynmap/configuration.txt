@@ -270,13 +270,13 @@ ctm-support: false
 custom-colors-support: true
 
 # Control loading of player faces (if set to false, skins are never fetched)
-#fetchskins: false
+#fetchskins: true
 
 # Control updating of player faces, once loaded (if faces are being managed by other apps or manually)
-#refreshskins: false
+#refreshskins: true
 
 # Customize URL used for fetching player skins (%player% is macro for name)
-skin-url: "http://s3.amazonaws.com/MinecraftSkins/%player%.png"
+skin-url: "http://mcapi.ca/rawskin/%player%"
 
 # Control behavior for new (1.0+) compass orientation (sunrise moved 90 degrees: east is now what used to be south)
 #   default is 'newrose' (preserve pre-1.0 maps, rotate rose)
