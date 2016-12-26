@@ -1338,3 +1338,37 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
 [11:10:29] [Server thread/INFO]: RYozora lost connection: Disconnected
 [11:10:29] [Server thread/INFO]: RYozora left the game
+[11:10:55] [Server thread/INFO]: [Music] Disabling Music v0.4
+[11:10:55] [Server thread/INFO]: [Music] by PlayRed
+[11:10:56] [Server thread/INFO]: [PlugMan] Music has been unloaded.
+[11:11:07] [Server thread/INFO]: [PlugMan] That is not a valid plugin.
+[11:11:07] [Server thread/INFO]: - Command: Unload
+[11:11:07] [Server thread/INFO]: - Description: Unload a plugin.
+[11:11:07] [Server thread/INFO]: - Usage: /plugman unload <plugin>
+[11:11:11] [Server thread/INFO]: [PlugMan] Plugins (34): AuthMe, BossShop, Citizens, ClearLag, CommandCost, ConquestiaMobs, ConsoleName, dynmap, dynmap-residence, Essentials, EssentialsAntiBuild, EssentialsChat, EssentialsProtect, EssentialsSpawn, GroupManager, InfernalMobs, IslandCraft, Lift, LockettePro, MCJukebox, mcMMO, MobHealth, MorePlayerModels2, OpGuard, PlugMan, ProtocolLib, QuickShop, Residence, Sentinel, ServerlistMOTD, SkinsRestorer, Vault, WorldBorder, WorldEdit
+[11:11:24] [Server thread/INFO]: [MCJukebox] Disabling MCJukebox v2.2
+[11:11:25] [Server thread/INFO]: [PlugMan] MCJukebox has been unloaded.
+[11:11:25] [EventThread/WARN]: Exception in thread "EventThread" 
+[11:11:25] [EventThread/WARN]: java.lang.NoClassDefFoundError: io/socket/engineio/client/Socket$21
+[11:11:25] [EventThread/WARN]: 	at io.socket.engineio.client.Socket.close(Socket.java:704)
+[11:11:25] [EventThread/WARN]: 	at io.socket.client.Manager.close(Manager.java:512)
+[11:11:25] [EventThread/WARN]: 	at io.socket.client.Manager.destroy(Manager.java:452)
+[11:11:25] [EventThread/WARN]: 	at io.socket.client.Socket.destroy(Socket.java:421)
+[11:11:25] [EventThread/WARN]: 	at io.socket.client.Socket.access$1400(Socket.java:19)
+[11:11:25] [EventThread/WARN]: 	at io.socket.client.Socket$8.run(Socket.java:438)
+[11:11:25] [EventThread/WARN]: 	at io.socket.thread.EventThread$2.run(EventThread.java:75)
+[11:11:25] [EventThread/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[11:11:25] [EventThread/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[11:11:25] [EventThread/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[11:11:25] [EventThread/WARN]: Caused by: java.lang.ClassNotFoundException: io.socket.engineio.client.Socket$21
+[11:11:25] [EventThread/WARN]: 	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+[11:11:25] [EventThread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:102)
+[11:11:25] [EventThread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:87)
+[11:11:25] [EventThread/WARN]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+[11:11:25] [EventThread/WARN]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+[11:11:25] [EventThread/WARN]: 	... 10 more
+[11:11:33] [Server thread/INFO]: [PlugMan] That is not a valid plugin.
+[11:11:33] [Server thread/INFO]: - Command: Unload
+[11:11:33] [Server thread/INFO]: - Description: Unload a plugin.
+[11:11:33] [Server thread/INFO]: - Usage: /plugman unload <plugin>
+[11:11:40] [Server thread/INFO]: [PlugMan] Plugins (33): AuthMe, BossShop, Citizens, ClearLag, CommandCost, ConquestiaMobs, ConsoleName, dynmap, dynmap-residence, Essentials, EssentialsAntiBuild, EssentialsChat, EssentialsProtect, EssentialsSpawn, GroupManager, InfernalMobs, IslandCraft, Lift, LockettePro, mcMMO, MobHealth, MorePlayerModels2, OpGuard, PlugMan, ProtocolLib, QuickShop, Residence, Sentinel, ServerlistMOTD, SkinsRestorer, Vault, WorldBorder, WorldEdit
