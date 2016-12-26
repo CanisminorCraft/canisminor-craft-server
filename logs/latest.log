@@ -1231,3 +1231,108 @@ Reason: 登录失败!您的帐号已被此服务器封禁!
 Reason: 登录失败!您的帐号已被此服务器封禁!
 [10:10:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@3e0c8c9d[id=3747430b-9e6e-3962-aa13-da9f27749789,name=canis_minor,properties={textures=[com.mojang.authlib.properties.Property@76eeda2b]},legacy=false] (/47.90.46.138:49995) lost connection: You are banned from this server!
 Reason: 登录失败!您的帐号已被此服务器封禁!
+[10:16:41] [Craft Scheduler Thread - 3298/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
+	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
+	at org.dynmap.residence.MetricsLite$1.run(MetricsLite.java:173) ~[?:?]
+	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftTask.run(CraftTask.java:58) ~[patched_1.11.jar:git-Paper-967]
+	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [patched_1.11.jar:git-Paper-967]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) [patched_1.11.jar:git-Paper-967]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
+[10:17:14] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[10:17:20] [Server thread/INFO]: CONSOLE issued server command: /gamemode 0
+[10:17:20] [Server thread/INFO]: Change player gamemode.
+[10:17:20] [Server thread/INFO]: /gamemode <survival|creative|adventure|spectator> [player]
+[10:17:26] [Server thread/INFO]: CONSOLE issued server command: /gamemode 0 KUMA
+[10:17:26] [Server thread/INFO]: 错误:玩家未在线（或不存在）
+[10:19:12] [User Authenticator #103/INFO]: UUID of player KUMA is e29790bc-a000-348d-965e-70a7243547e9
+[10:19:12] [Server thread/INFO]: KUMA[/119.122.247.214:49807] logged in with entity id 731828 at ([world]39.85488834572894, 69.5625, 32.87139386057337)
+[10:19:25] [Server thread/INFO]: CMC (Warning): The plugin AuthMe attempted to remove op from KUMA
+[10:22:36] [Server thread/INFO]: KUMA lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[10:22:36] [Server thread/INFO]: KUMA left the game
+[10:23:00] [Server thread/INFO]: CONSOLE issued server command: /list 
+[10:23:00] [Server thread/INFO]: 当前有 0 个玩家在线,最大在线人数为 20 个玩家.
+[10:26:41] [Craft Scheduler Thread - 3304/INFO]: [ServerlistMOTD] Saved informations to files!
+[10:26:41] [Craft Scheduler Thread - 3315/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
+	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
+	at org.dynmap.residence.MetricsLite$1.run(MetricsLite.java:173) ~[?:?]
+	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftTask.run(CraftTask.java:58) ~[patched_1.11.jar:git-Paper-967]
+	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [patched_1.11.jar:git-Paper-967]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) [patched_1.11.jar:git-Paper-967]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
+[10:28:47] [User Authenticator #104/INFO]: UUID of player KUMA is e29790bc-a000-348d-965e-70a7243547e9
+[10:28:47] [Server thread/INFO]: KUMA[/119.122.247.214:50018] logged in with entity id 731894 at ([world]40.219783916043006, 69.0, 30.501351143967344)
+[10:29:11] [Server thread/INFO]: CMC (Warning): The plugin AuthMe attempted to remove op from KUMA
+[10:36:41] [Craft Scheduler Thread - 3321/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
+	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
+	at org.dynmap.residence.MetricsLite$1.run(MetricsLite.java:173) ~[?:?]
+	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftTask.run(CraftTask.java:58) ~[patched_1.11.jar:git-Paper-967]
+	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [patched_1.11.jar:git-Paper-967]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) [patched_1.11.jar:git-Paper-967]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
+[10:37:44] [Server thread/INFO]: KUMA lost connection: Timed out
+[10:37:44] [Server thread/INFO]: KUMA left the game
+[10:39:22] [User Authenticator #105/INFO]: UUID of player KUMA is e29790bc-a000-348d-965e-70a7243547e9
+[10:39:22] [Server thread/INFO]: KUMA[/119.139.136.2:18037] logged in with entity id 732243 at ([world]268.04840344904403, 78.0, 15.474883237758316)
+[10:39:27] [Server thread/INFO]: CMC (Warning): The plugin AuthMe attempted to remove op from KUMA
+[10:45:55] [User Authenticator #106/INFO]: UUID of player RYozora is b726f4a3-0eef-3cf4-a13b-0be2f697b248
+[10:45:56] [Server thread/INFO]: RYozora[/121.35.185.175:41373] logged in with entity id 732350 at ([world]39.88858083319824, 63.0, 31.371548633589956)
+[10:46:16] [Craft Scheduler Thread - 3343/WARN]: [AuthMe] Error getting message with key 'accounts_owned_self'. Please verify your config file at 'messages_zhcn.yml'
+[10:46:16] [Server thread/INFO]: CMC (Warning): The plugin AuthMe attempted to remove op from RYozora
+[10:46:41] [Craft Scheduler Thread - 3343/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
+	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
+	at org.dynmap.residence.MetricsLite$1.run(MetricsLite.java:173) ~[?:?]
+	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftTask.run(CraftTask.java:58) ~[patched_1.11.jar:git-Paper-967]
+	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [patched_1.11.jar:git-Paper-967]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) [patched_1.11.jar:git-Paper-967]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
+[10:49:19] [Server thread/INFO]: KUMA lost connection: Disconnected
+[10:49:19] [Server thread/INFO]: KUMA left the game
+[10:51:51] [User Authenticator #107/INFO]: UUID of player KUMA is e29790bc-a000-348d-965e-70a7243547e9
+[10:51:51] [Server thread/INFO]: KUMA[/119.139.136.2:18911] logged in with entity id 732698 at ([world]268.04840344904403, 78.0, 15.474883237758316)
+[10:51:55] [Server thread/INFO]: CMC (Warning): The plugin AuthMe attempted to remove op from KUMA
+[10:56:11] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
+[10:56:31] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
+[10:56:41] [Server thread/INFO]: <清道夫>  移除 3 个垃圾...
+[10:56:41] [Craft Scheduler Thread - 3344/INFO]: [ServerlistMOTD] Saved informations to files!
+[10:56:41] [Craft Scheduler Thread - 3359/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
+	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
+	at org.dynmap.residence.MetricsLite$1.run(MetricsLite.java:173) ~[?:?]
+	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftTask.run(CraftTask.java:58) ~[patched_1.11.jar:git-Paper-967]
+	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [patched_1.11.jar:git-Paper-967]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) [patched_1.11.jar:git-Paper-967]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
+[11:06:19] [Server thread/INFO]: CONSOLE issued server command: /list 
+[11:06:19] [Server thread/INFO]: 当前有 2 个玩家在线,最大在线人数为 20 个玩家.
+[11:06:19] [Server thread/INFO]: Builder: [村民]KUMA
+[11:06:19] [Server thread/INFO]: Moderator: [名媛]RYozora
+[11:06:41] [Craft Scheduler Thread - 3366/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
+	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
+	at org.dynmap.residence.MetricsLite$1.run(MetricsLite.java:173) ~[?:?]
+	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftTask.run(CraftTask.java:58) ~[patched_1.11.jar:git-Paper-967]
+	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [patched_1.11.jar:git-Paper-967]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) [patched_1.11.jar:git-Paper-967]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
