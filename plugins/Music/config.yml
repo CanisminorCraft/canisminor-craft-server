@@ -1,0 +1,31 @@
+Messages:
+  Help:
+    Add:
+      Description: Add a song to your list.
+      Use: /music add NAME URL
+    Play:
+      Description: Play a song from your list.
+      Use: /music play NAME
+    Stop:
+      Description: Stop playing the current song.
+      Use: /music stop
+    Remove:
+      Description: Remove a song from your list.
+      Use: /music remove NAME
+    Register:
+      Description: Adds a manual created song.
+      Use: /music register NAME
+    List:
+      Description: List all the songs you have.
+      Use: /music list
+  Wrong: Ups, something is wrong.
+  NoPermission: Sorry but you have no Permission for that!
+  Success:
+    Add: '%name% added to your list.'
+    Remove: '%name% removed from your list.'
+    Register: Song %name% successfully registered.
+    Play: Start playing %name%.
+    Stop: All songs stopped.
+  Songlist:
+    Number: Their are %number% registered songs!
+    NoSongs: Their are no songs registered now!
