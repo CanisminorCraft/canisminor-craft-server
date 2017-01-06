@@ -1,4 +1,4 @@
-[00:07:12] [Craft Scheduler Thread - 6120/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[00:09:20] [Craft Scheduler Thread - 21759/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -9,8 +9,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[00:15:16] [Server thread/INFO]: 3hui was shot by [Lv16] Skeleton
-[00:17:12] [Craft Scheduler Thread - 6137/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[00:19:20] [Craft Scheduler Thread - 21775/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -21,8 +20,8 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[00:27:12] [Craft Scheduler Thread - 6141/INFO]: [ServerlistMOTD] Saved informations to files!
-[00:27:12] [Craft Scheduler Thread - 6151/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[00:29:20] [Craft Scheduler Thread - 21777/INFO]: [ServerlistMOTD] Saved informations to files!
+[00:29:21] [Craft Scheduler Thread - 21789/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -33,7 +32,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[00:37:12] [Craft Scheduler Thread - 6158/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[00:39:21] [Craft Scheduler Thread - 21797/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -44,7 +43,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[00:47:12] [Craft Scheduler Thread - 6174/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[00:49:21] [Craft Scheduler Thread - 21814/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -55,11 +54,11 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[00:56:42] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
-[00:57:02] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
-[00:57:12] [Server thread/INFO]: <清道夫>  移除 6 个垃圾...
-[00:57:12] [Craft Scheduler Thread - 6173/INFO]: [ServerlistMOTD] Saved informations to files!
-[00:57:12] [Craft Scheduler Thread - 6187/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[00:58:50] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
+[00:59:10] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
+[00:59:20] [Server thread/INFO]: <清道夫>  移除 1 个垃圾...
+[00:59:20] [Craft Scheduler Thread - 21819/INFO]: [ServerlistMOTD] Saved informations to files!
+[00:59:21] [Craft Scheduler Thread - 21829/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -70,7 +69,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[01:07:12] [Craft Scheduler Thread - 6195/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[01:09:21] [Craft Scheduler Thread - 21838/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -81,7 +80,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[01:17:12] [Craft Scheduler Thread - 6204/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[01:19:21] [Craft Scheduler Thread - 21854/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -92,10 +91,8 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[01:19:36] [Server thread/INFO]: 3hui was slain by [Lv3] Zombie
-[01:20:40] [Server thread/INFO]: 3hui was slain by [Lv3] Zombie
-[01:27:12] [Craft Scheduler Thread - 6215/INFO]: [ServerlistMOTD] Saved informations to files!
-[01:27:13] [Craft Scheduler Thread - 6224/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[01:29:21] [Craft Scheduler Thread - 21853/INFO]: [ServerlistMOTD] Saved informations to files!
+[01:29:21] [Craft Scheduler Thread - 21867/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -106,7 +103,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[01:37:13] [Craft Scheduler Thread - 6231/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[01:39:21] [Craft Scheduler Thread - 21877/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -117,7 +114,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[01:47:13] [Craft Scheduler Thread - 6244/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[01:49:21] [Craft Scheduler Thread - 21893/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -128,21 +125,11 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[01:47:34] [Server thread/INFO]: KUMA lost connection: Disconnected
-[01:47:34] [Server thread/INFO]: KUMA left the game
-[01:47:37] [User Authenticator #178/INFO]: UUID of player KUMA is e29790bc-a000-348d-965e-70a7243547e9
-[01:47:37] [Server thread/INFO]: KUMA[/14.153.78.167:28756] logged in with entity id 2087773 at ([world]267.9363366865063, 79.43160005807877, 15.392911257761366)
-[01:47:42] [Server thread/INFO]: KUMA lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
-[01:47:42] [Server thread/INFO]: KUMA left the game
-[01:48:10] [User Authenticator #178/INFO]: UUID of player KUMA is e29790bc-a000-348d-965e-70a7243547e9
-[01:48:11] [Server thread/INFO]: KUMA[/14.153.78.167:28827] logged in with entity id 2087841 at ([world]267.9363366865063, 79.12728323062123, 15.392911257761366)
-[01:48:20] [Craft Scheduler Thread - 6244/WARN]: [AuthMe] Error getting message with key 'accounts_owned_self'. Please verify your config file at 'messages_zhcn.yml'
-[01:48:20] [Server thread/INFO]: CMC (Warning): The plugin AuthMe attempted to remove op from KUMA
-[01:56:43] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
-[01:57:03] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
-[01:57:13] [Server thread/INFO]: <清道夫>  移除 1 个垃圾...
-[01:57:13] [Craft Scheduler Thread - 6244/INFO]: [ServerlistMOTD] Saved informations to files!
-[01:57:13] [Craft Scheduler Thread - 6260/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[01:58:51] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
+[01:59:11] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
+[01:59:21] [Server thread/INFO]: <清道夫>  移除 0 个垃圾...
+[01:59:21] [Craft Scheduler Thread - 21895/INFO]: [ServerlistMOTD] Saved informations to files!
+[01:59:21] [Craft Scheduler Thread - 21907/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -153,8 +140,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[02:03:49] [Server thread/INFO]: 村庄护卫 was slain by [Lv6] Zombie
-[02:07:13] [Craft Scheduler Thread - 6267/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[02:09:21] [Craft Scheduler Thread - 21917/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -165,20 +151,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[02:09:55] [User Authenticator #179/INFO]: UUID of player KUMA is e29790bc-a000-348d-965e-70a7243547e9
-[02:09:55] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@30db04a[id=e29790bc-a000-348d-965e-70a7243547e9,name=KUMA,properties={textures=[com.mojang.authlib.properties.Property@65ea7432]},legacy=false] (/14.153.78.167:26354): §8[§6玩家系统§8] §f同样的用户名现在在线且已经登录了！
-[02:09:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@30db04a[id=e29790bc-a000-348d-965e-70a7243547e9,name=KUMA,properties={textures=[com.mojang.authlib.properties.Property@65ea7432]},legacy=false] (/14.153.78.167:26354) lost connection: §8[§6玩家系统§8] §f同样的用户名现在在线且已经登录了！
-[02:10:21] [Server thread/INFO]: KUMA lost connection: Timed out
-[02:10:21] [Server thread/INFO]: KUMA left the game
-[02:13:00] [User Authenticator #180/INFO]: UUID of player KUMA is e29790bc-a000-348d-965e-70a7243547e9
-[02:13:00] [Server thread/INFO]: KUMA[/14.153.78.167:26639] logged in with entity id 2192370 at ([world]41.69184799450787, 63.43800001144409, 33.48750001192093)
-[02:13:06] [Craft Scheduler Thread - 6280/WARN]: [AuthMe] Error getting message with key 'accounts_owned_self'. Please verify your config file at 'messages_zhcn.yml'
-[02:13:06] [Server thread/INFO]: CMC (Warning): The plugin AuthMe attempted to remove op from KUMA
-[02:15:10] [Server thread/INFO]: KUMA lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
-[02:15:10] [Server thread/INFO]: KUMA left the game
-[02:16:43] [Server thread/INFO]: 3hui lost connection: Timed out
-[02:16:43] [Server thread/INFO]: 3hui left the game
-[02:17:13] [Craft Scheduler Thread - 6284/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[02:19:21] [Craft Scheduler Thread - 21932/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -189,8 +162,8 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[02:27:13] [Craft Scheduler Thread - 6280/INFO]: [ServerlistMOTD] Saved informations to files!
-[02:27:13] [Craft Scheduler Thread - 6296/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[02:29:21] [Craft Scheduler Thread - 21931/INFO]: [ServerlistMOTD] Saved informations to files!
+[02:29:21] [Craft Scheduler Thread - 21944/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -201,7 +174,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[02:37:13] [Craft Scheduler Thread - 6304/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[02:39:21] [Craft Scheduler Thread - 21952/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -212,9 +185,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[02:46:39] [Server thread/INFO]: RYozora lost connection: Disconnected
-[02:46:39] [Server thread/INFO]: RYozora left the game
-[02:47:13] [Craft Scheduler Thread - 6314/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[02:49:21] [Craft Scheduler Thread - 21967/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -225,11 +196,11 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[02:56:43] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
-[02:57:03] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
-[02:57:13] [Server thread/INFO]: <清道夫>  移除 1 个垃圾...
-[02:57:13] [Craft Scheduler Thread - 6314/INFO]: [ServerlistMOTD] Saved informations to files!
-[02:57:13] [Craft Scheduler Thread - 6331/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[02:58:51] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
+[02:59:11] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
+[02:59:21] [Server thread/INFO]: <清道夫>  移除 2 个垃圾...
+[02:59:21] [Craft Scheduler Thread - 21957/INFO]: [ServerlistMOTD] Saved informations to files!
+[02:59:21] [Craft Scheduler Thread - 21979/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -240,7 +211,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[03:07:13] [Craft Scheduler Thread - 6337/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[03:09:21] [Craft Scheduler Thread - 21986/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -251,7 +222,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[03:17:13] [Craft Scheduler Thread - 6354/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[03:19:21] [Craft Scheduler Thread - 22001/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -262,8 +233,8 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[03:27:13] [Craft Scheduler Thread - 6357/INFO]: [ServerlistMOTD] Saved informations to files!
-[03:27:13] [Craft Scheduler Thread - 6367/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[03:29:21] [Craft Scheduler Thread - 21995/INFO]: [ServerlistMOTD] Saved informations to files!
+[03:29:21] [Craft Scheduler Thread - 22013/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -274,7 +245,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[03:37:13] [Craft Scheduler Thread - 6374/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[03:39:21] [Craft Scheduler Thread - 22022/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -285,7 +256,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[03:47:13] [Craft Scheduler Thread - 6389/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[03:49:21] [Craft Scheduler Thread - 22038/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -296,11 +267,11 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[03:56:43] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
-[03:57:03] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
-[03:57:13] [Server thread/INFO]: <清道夫>  移除 1 个垃圾...
-[03:57:13] [Craft Scheduler Thread - 6380/INFO]: [ServerlistMOTD] Saved informations to files!
-[03:57:13] [Craft Scheduler Thread - 6401/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[03:58:51] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
+[03:59:11] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
+[03:59:21] [Server thread/INFO]: <清道夫>  移除 2 个垃圾...
+[03:59:21] [Craft Scheduler Thread - 22037/INFO]: [ServerlistMOTD] Saved informations to files!
+[03:59:21] [Craft Scheduler Thread - 22050/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -311,7 +282,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[04:07:13] [Craft Scheduler Thread - 6411/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[04:09:21] [Craft Scheduler Thread - 22057/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -322,7 +293,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[04:17:13] [Craft Scheduler Thread - 6427/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[04:19:21] [Craft Scheduler Thread - 22073/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -333,8 +304,8 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[04:27:13] [Craft Scheduler Thread - 6426/INFO]: [ServerlistMOTD] Saved informations to files!
-[04:27:13] [Craft Scheduler Thread - 6439/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[04:29:21] [Craft Scheduler Thread - 22075/INFO]: [ServerlistMOTD] Saved informations to files!
+[04:29:21] [Craft Scheduler Thread - 22087/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -345,7 +316,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[04:37:13] [Craft Scheduler Thread - 6447/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[04:39:21] [Craft Scheduler Thread - 22096/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -356,7 +327,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[04:47:13] [Craft Scheduler Thread - 6463/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[04:49:21] [Craft Scheduler Thread - 22112/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -367,11 +338,11 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[04:56:43] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
-[04:57:03] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
-[04:57:13] [Server thread/INFO]: <清道夫>  移除 1 个垃圾...
-[04:57:13] [Craft Scheduler Thread - 6462/INFO]: [ServerlistMOTD] Saved informations to files!
-[04:57:13] [Craft Scheduler Thread - 6475/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[04:58:51] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
+[04:59:11] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
+[04:59:21] [Server thread/INFO]: <清道夫>  移除 1 个垃圾...
+[04:59:21] [Craft Scheduler Thread - 22111/INFO]: [ServerlistMOTD] Saved informations to files!
+[04:59:21] [Craft Scheduler Thread - 22125/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -382,7 +353,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[05:07:13] [Craft Scheduler Thread - 6481/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[05:09:21] [Craft Scheduler Thread - 22131/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -393,7 +364,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[05:17:13] [Craft Scheduler Thread - 6496/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[05:19:21] [Craft Scheduler Thread - 22146/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -404,8 +375,8 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[05:27:13] [Craft Scheduler Thread - 6499/INFO]: [ServerlistMOTD] Saved informations to files!
-[05:27:13] [Craft Scheduler Thread - 6509/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[05:29:21] [Craft Scheduler Thread - 22151/INFO]: [ServerlistMOTD] Saved informations to files!
+[05:29:21] [Craft Scheduler Thread - 22161/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -416,7 +387,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[05:37:13] [Craft Scheduler Thread - 6516/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[05:39:21] [Craft Scheduler Thread - 22169/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -427,7 +398,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[05:47:13] [Craft Scheduler Thread - 6534/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[05:49:21] [Craft Scheduler Thread - 22185/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -438,11 +409,11 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[05:56:43] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
-[05:57:03] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
-[05:57:13] [Server thread/INFO]: <清道夫>  移除 1 个垃圾...
-[05:57:13] [Craft Scheduler Thread - 6536/INFO]: [ServerlistMOTD] Saved informations to files!
-[05:57:13] [Craft Scheduler Thread - 6549/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[05:58:51] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
+[05:59:11] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
+[05:59:21] [Server thread/INFO]: <清道夫>  移除 0 个垃圾...
+[05:59:21] [Craft Scheduler Thread - 22188/INFO]: [ServerlistMOTD] Saved informations to files!
+[05:59:21] [Craft Scheduler Thread - 22198/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -453,7 +424,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[06:07:13] [Craft Scheduler Thread - 6555/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[06:09:21] [Craft Scheduler Thread - 22203/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -464,7 +435,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[06:17:13] [Craft Scheduler Thread - 6570/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[06:19:21] [Craft Scheduler Thread - 22222/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -475,8 +446,8 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[06:27:13] [Craft Scheduler Thread - 6574/INFO]: [ServerlistMOTD] Saved informations to files!
-[06:27:13] [Craft Scheduler Thread - 6584/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[06:29:21] [Craft Scheduler Thread - 22225/INFO]: [ServerlistMOTD] Saved informations to files!
+[06:29:21] [Craft Scheduler Thread - 22235/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -487,7 +458,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[06:37:13] [Craft Scheduler Thread - 6590/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[06:39:21] [Craft Scheduler Thread - 22245/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -498,7 +469,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[06:47:13] [Craft Scheduler Thread - 6605/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[06:49:21] [Craft Scheduler Thread - 22260/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -509,11 +480,11 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[06:56:43] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
-[06:57:03] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
-[06:57:13] [Server thread/INFO]: <清道夫>  移除 1 个垃圾...
-[06:57:13] [Craft Scheduler Thread - 6592/INFO]: [ServerlistMOTD] Saved informations to files!
-[06:57:13] [Craft Scheduler Thread - 6617/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[06:58:51] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
+[06:59:11] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
+[06:59:21] [Server thread/INFO]: <清道夫>  移除 1 个垃圾...
+[06:59:21] [Craft Scheduler Thread - 22256/INFO]: [ServerlistMOTD] Saved informations to files!
+[06:59:21] [Craft Scheduler Thread - 22272/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -524,7 +495,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[07:07:13] [Craft Scheduler Thread - 6623/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[07:09:21] [Craft Scheduler Thread - 22279/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -535,7 +506,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[07:17:13] [Craft Scheduler Thread - 6638/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[07:19:21] [Craft Scheduler Thread - 22295/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -546,8 +517,8 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[07:27:13] [Craft Scheduler Thread - 6645/INFO]: [ServerlistMOTD] Saved informations to files!
-[07:27:13] [Craft Scheduler Thread - 6654/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[07:29:21] [Craft Scheduler Thread - 22298/INFO]: [ServerlistMOTD] Saved informations to files!
+[07:29:21] [Craft Scheduler Thread - 22309/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -558,7 +529,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[07:37:13] [Craft Scheduler Thread - 6663/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[07:39:21] [Craft Scheduler Thread - 22317/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -569,7 +540,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[07:47:13] [Craft Scheduler Thread - 6681/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[07:49:21] [Craft Scheduler Thread - 22328/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -580,11 +551,11 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[07:56:43] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
-[07:57:03] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
-[07:57:13] [Server thread/INFO]: <清道夫>  移除 3 个垃圾...
-[07:57:13] [Craft Scheduler Thread - 6683/INFO]: [ServerlistMOTD] Saved informations to files!
-[07:57:13] [Craft Scheduler Thread - 6694/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[07:58:51] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
+[07:59:11] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
+[07:59:21] [Server thread/INFO]: <清道夫>  移除 0 个垃圾...
+[07:59:21] [Craft Scheduler Thread - 22335/INFO]: [ServerlistMOTD] Saved informations to files!
+[07:59:21] [Craft Scheduler Thread - 22345/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -595,7 +566,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[08:07:13] [Craft Scheduler Thread - 6700/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[08:09:21] [Craft Scheduler Thread - 22351/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -606,7 +577,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[08:17:13] [Craft Scheduler Thread - 6716/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[08:19:21] [Craft Scheduler Thread - 22367/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -617,8 +588,8 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[08:27:13] [Craft Scheduler Thread - 6715/INFO]: [ServerlistMOTD] Saved informations to files!
-[08:27:13] [Craft Scheduler Thread - 6729/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[08:29:21] [Craft Scheduler Thread - 22371/INFO]: [ServerlistMOTD] Saved informations to files!
+[08:29:21] [Craft Scheduler Thread - 22381/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -629,7 +600,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[08:37:13] [Craft Scheduler Thread - 6735/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[08:39:21] [Craft Scheduler Thread - 22389/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -640,7 +611,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[08:47:13] [Craft Scheduler Thread - 6751/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[08:49:21] [Craft Scheduler Thread - 22405/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -651,11 +622,11 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[08:56:43] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
-[08:57:03] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
-[08:57:13] [Server thread/INFO]: <清道夫>  移除 1 个垃圾...
-[08:57:13] [Craft Scheduler Thread - 6753/INFO]: [ServerlistMOTD] Saved informations to files!
-[08:57:13] [Craft Scheduler Thread - 6763/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[08:58:51] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
+[08:59:11] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
+[08:59:21] [Server thread/INFO]: <清道夫>  移除 0 个垃圾...
+[08:59:21] [Craft Scheduler Thread - 22396/INFO]: [ServerlistMOTD] Saved informations to files!
+[08:59:21] [Craft Scheduler Thread - 22417/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -666,7 +637,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[09:07:13] [Craft Scheduler Thread - 6770/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[09:09:22] [Craft Scheduler Thread - 22425/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -677,7 +648,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[09:17:13] [Craft Scheduler Thread - 6785/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[09:19:22] [Craft Scheduler Thread - 22441/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -688,11 +659,8 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[09:18:39] [User Authenticator #181/INFO]: UUID of player KUMA is e29790bc-a000-348d-965e-70a7243547e9
-[09:18:39] [Server thread/INFO]: KUMA[/119.122.246.141:37541] logged in with entity id 2216431 at ([world]40.34527901788608, 69.0, 29.3303819803792)
-[09:18:44] [Server thread/INFO]: CMC (Warning): The plugin AuthMe attempted to remove op from KUMA
-[09:27:13] [Craft Scheduler Thread - 6781/INFO]: [ServerlistMOTD] Saved informations to files!
-[09:27:13] [Craft Scheduler Thread - 6799/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[09:29:21] [Craft Scheduler Thread - 22443/INFO]: [ServerlistMOTD] Saved informations to files!
+[09:29:22] [Craft Scheduler Thread - 22455/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -703,20 +671,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[09:27:30] [Server thread/INFO]: [卫星地图] 121.42.53.81: 原版服？是正版的吗？
-[09:28:09] [Server thread/INFO]: <[村民]KUMA> 原版服??KUMA
-[09:28:09] [Server thread/INFO]: <|激萌|Bot>  自己去看看吧是原版的呢
-[09:28:24] [Server thread/INFO]: [卫星地图] 121.42.53.81: 这个服务器啊- -
-[09:28:39] [Server thread/INFO]: [卫星地图] 121.42.53.81: 有木有加MOD
-[09:28:59] [Server thread/INFO]: <[村民]KUMA> 服务器应该没mod.. KUMA
-[09:28:59] [Server thread/INFO]: <|激萌|Bot>  人家听不懂你在说什么哦
-[09:29:24] [Server thread/INFO]: [卫星地图] 121.42.53.81: 可以玩红石么，活塞和比较器什么的
-[09:29:46] [Server thread/INFO]: <[村民]KUMA> 高频的不行KUMA
-[09:29:46] [Server thread/INFO]: <|激萌|Bot>  不行这词可不怎么样。
-[09:30:03] [Server thread/INFO]: [卫星地图] 121.42.53.81: 有空去玩玩
-[09:32:21] [Server thread/INFO]: <[村民]KUMA> 这个算私人服的...玩要有权限的...之前有熊孩子捣乱...所有服主开了权限，普通进来是游客，什么都没法做.. KUMA
-[09:32:21] [Server thread/INFO]: <|激萌|Bot>  我发现一个事实，你是在逗我玩吧
-[09:37:13] [Craft Scheduler Thread - 6792/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[09:39:22] [Craft Scheduler Thread - 22464/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -727,7 +682,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[09:47:13] [Craft Scheduler Thread - 6818/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[09:49:22] [Craft Scheduler Thread - 22481/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -738,11 +693,11 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[09:56:43] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
-[09:57:03] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
-[09:57:13] [Server thread/INFO]: <清道夫>  移除 5 个垃圾...
-[09:57:13] [Craft Scheduler Thread - 6820/INFO]: [ServerlistMOTD] Saved informations to files!
-[09:57:13] [Craft Scheduler Thread - 6832/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[09:58:51] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
+[09:59:11] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
+[09:59:21] [Server thread/INFO]: <清道夫>  移除 0 个垃圾...
+[09:59:21] [Craft Scheduler Thread - 22480/INFO]: [ServerlistMOTD] Saved informations to files!
+[09:59:22] [Craft Scheduler Thread - 22494/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -753,7 +708,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[10:07:13] [Craft Scheduler Thread - 6839/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[10:09:22] [Craft Scheduler Thread - 22501/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -764,7 +719,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[10:17:13] [Craft Scheduler Thread - 6855/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[10:19:22] [Craft Scheduler Thread - 22516/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -775,8 +730,8 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[10:27:13] [Craft Scheduler Thread - 6854/INFO]: [ServerlistMOTD] Saved informations to files!
-[10:27:13] [Craft Scheduler Thread - 6868/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[10:29:21] [Craft Scheduler Thread - 22510/INFO]: [ServerlistMOTD] Saved informations to files!
+[10:29:22] [Craft Scheduler Thread - 22528/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -787,7 +742,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[10:37:13] [Craft Scheduler Thread - 6871/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[10:39:22] [Craft Scheduler Thread - 22534/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -798,7 +753,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[10:47:13] [Craft Scheduler Thread - 6879/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[10:49:22] [Craft Scheduler Thread - 22550/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -809,11 +764,11 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[10:56:43] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
-[10:57:03] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
-[10:57:13] [Server thread/INFO]: <清道夫>  移除 5 个垃圾...
-[10:57:13] [Craft Scheduler Thread - 6891/INFO]: [ServerlistMOTD] Saved informations to files!
-[10:57:13] [Craft Scheduler Thread - 6903/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[10:58:52] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
+[10:59:12] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
+[10:59:22] [Server thread/INFO]: <清道夫>  移除 2 个垃圾...
+[10:59:22] [Craft Scheduler Thread - 22555/INFO]: [ServerlistMOTD] Saved informations to files!
+[10:59:22] [Craft Scheduler Thread - 22565/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -824,7 +779,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[11:07:13] [Craft Scheduler Thread - 6909/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[11:09:22] [Craft Scheduler Thread - 22573/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -835,7 +790,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[11:17:13] [Craft Scheduler Thread - 6924/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[11:19:22] [Craft Scheduler Thread - 22589/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -846,8 +801,8 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[11:27:13] [Craft Scheduler Thread - 6917/INFO]: [ServerlistMOTD] Saved informations to files!
-[11:27:14] [Craft Scheduler Thread - 6936/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[11:29:22] [Craft Scheduler Thread - 22577/INFO]: [ServerlistMOTD] Saved informations to files!
+[11:29:22] [Craft Scheduler Thread - 22601/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -858,10 +813,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[11:31:10] [User Authenticator #182/INFO]: UUID of player RYozora is b726f4a3-0eef-3cf4-a13b-0be2f697b248
-[11:31:10] [Server thread/INFO]: RYozora[/14.153.78.167:25939] logged in with entity id 2218566 at ([world]40.72178644453571, 69.0, 28.300000011920915)
-[11:31:23] [Server thread/INFO]: CMC (Warning): The plugin AuthMe attempted to remove op from RYozora
-[11:37:14] [Craft Scheduler Thread - 6936/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[11:39:22] [Craft Scheduler Thread - 22609/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -872,19 +824,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[11:44:04] [Server thread/WARN]: RYozora moved too quickly! -12.592386078596867,-3.615698834738609,0.6199490337186546
-[11:44:06] [Server thread/WARN]: RYozora was kicked for floating too long!
-[11:44:06] [Server thread/INFO]: RYozora lost connection: Flying is not enabled on this server
-[11:44:06] [Server thread/INFO]: RYozora left the game
-[11:44:06] [Server thread/WARN]: handleDisconnection() called twice
-[11:44:09] [User Authenticator #183/INFO]: UUID of player RYozora is b726f4a3-0eef-3cf4-a13b-0be2f697b248
-[11:44:09] [Server thread/INFO]: RYozora[/14.153.78.167:26659] logged in with entity id 2219133 at ([world]29.61773112215561, 79.20294434772845, 32.95581474376927)
-[11:44:39] [Server thread/INFO]: RYozora lost connection: §8[§6玩家系统§8] §f给你登录的时间已经过了
-[11:44:39] [Server thread/INFO]: RYozora left the game
-[11:45:05] [User Authenticator #183/INFO]: UUID of player RYozora is b726f4a3-0eef-3cf4-a13b-0be2f697b248
-[11:45:05] [Server thread/INFO]: RYozora[/14.153.78.167:26792] logged in with entity id 2219237 at ([world]29.61773112215561, 79.20294434772845, 32.95581474376927)
-[11:45:17] [Server thread/INFO]: CMC (Warning): The plugin AuthMe attempted to remove op from RYozora
-[11:47:14] [Craft Scheduler Thread - 6963/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[11:49:22] [Craft Scheduler Thread - 22625/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -895,11 +835,11 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[11:56:44] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
-[11:57:04] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
-[11:57:14] [Server thread/INFO]: <清道夫>  移除 8 个垃圾...
-[11:57:14] [Craft Scheduler Thread - 6962/INFO]: [ServerlistMOTD] Saved informations to files!
-[11:57:14] [Craft Scheduler Thread - 6975/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[11:58:52] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
+[11:59:12] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
+[11:59:22] [Server thread/INFO]: <清道夫>  移除 0 个垃圾...
+[11:59:22] [Craft Scheduler Thread - 22627/INFO]: [ServerlistMOTD] Saved informations to files!
+[11:59:22] [Craft Scheduler Thread - 22640/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -910,7 +850,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[12:07:14] [Craft Scheduler Thread - 6966/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[12:09:22] [Craft Scheduler Thread - 22648/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -921,21 +861,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[12:08:08] [Server thread/WARN]: RYozora moved wrongly!
-[12:10:03] [Server thread/WARN]: RYozora was kicked for floating too long!
-[12:10:03] [Server thread/INFO]: RYozora lost connection: Flying is not enabled on this server
-[12:10:03] [Server thread/INFO]: RYozora left the game
-[12:10:03] [Server thread/WARN]: handleDisconnection() called twice
-[12:10:10] [User Authenticator #184/INFO]: UUID of player RYozora is b726f4a3-0eef-3cf4-a13b-0be2f697b248
-[12:10:10] [Server thread/INFO]: RYozora[/14.153.78.167:25609] logged in with entity id 2304438 at ([world]-11.485284292150839, 108.09709389017084, 1732.6953616148585)
-[12:10:16] [Server thread/INFO]: CMC (Warning): The plugin AuthMe attempted to remove op from RYozora
-[12:12:41] [Server thread/WARN]: RYozora moved too quickly! 11.618900767937134,2.519999921321869,-0.001964008784852922
-[12:14:52] [Server thread/WARN]: RYozora moved too quickly! -10.993905551787634,1.669187065631661,0.6034061936161379
-[12:15:11] [Server thread/WARN]: RYozora moved too quickly! -11.030576625887988,3.359999895095825,-1.0736068348910521
-[12:16:43] [Server thread/WARN]: RYozora moved too quickly! -9.012785798641062,0.37673561378173304,-5.522488409515518
-[12:16:49] [Server thread/WARN]: RYozora moved too quickly! -9.579429396917362,-1.5694065768604588,-5.87230369665167
-[12:16:51] [Server thread/WARN]: RYozora moved too quickly! -11.913512779386565,2.519999921321869,-6.526728721070867
-[12:17:19] [Craft Scheduler Thread - 7000/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[12:19:22] [Craft Scheduler Thread - 22664/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -946,24 +872,8 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[12:18:22] [Server thread/WARN]: RYozora moved wrongly!
-[12:18:27] [Server thread/WARN]: RYozora moved wrongly!
-[12:18:31] [Server thread/WARN]: RYozora moved wrongly!
-[12:18:40] [Server thread/WARN]: RYozora moved wrongly!
-[12:18:45] [Server thread/WARN]: RYozora moved wrongly!
-[12:18:47] [Server thread/WARN]: RYozora moved wrongly!
-[12:18:59] [Server thread/WARN]: RYozora moved wrongly!
-[12:19:02] [Server thread/WARN]: RYozora moved wrongly!
-[12:19:16] [Server thread/WARN]: RYozora moved wrongly!
-[12:19:31] [Server thread/INFO]: RYozora lost connection: Disconnected
-[12:19:31] [Server thread/INFO]: RYozora left the game
-[12:19:33] [User Authenticator #185/INFO]: UUID of player RYozora is b726f4a3-0eef-3cf4-a13b-0be2f697b248
-[12:19:33] [Server thread/INFO]: RYozora[/14.153.78.167:26590] logged in with entity id 2307333 at ([world]-2034.5013480293749, 78.87055068127312, 2469.729264089954)
-[12:19:41] [Server thread/INFO]: CMC (Warning): The plugin AuthMe attempted to remove op from RYozora
-[12:19:46] [Server thread/WARN]: RYozora moved wrongly!
-[12:22:13] [Server thread/INFO]: RYozora issued server command: /wb clear all
-[12:27:22] [Craft Scheduler Thread - 6999/INFO]: [ServerlistMOTD] Saved informations to files!
-[12:27:22] [Craft Scheduler Thread - 7013/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[12:29:22] [Craft Scheduler Thread - 22650/INFO]: [ServerlistMOTD] Saved informations to files!
+[12:29:22] [Craft Scheduler Thread - 22677/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -974,7 +884,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[12:37:24] [Craft Scheduler Thread - 7021/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[12:39:22] [Craft Scheduler Thread - 22683/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -985,9 +895,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[12:41:23] [Server thread/WARN]: RYozora moved too quickly! 10.27504146877709,-0.5061351021062137,-1.0492336987609576
-[12:41:59] [Server thread/WARN]: RYozora moved too quickly! 12.146100435298194,2.519999921321869,-3.1758734602120526
-[12:47:30] [Craft Scheduler Thread - 7025/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[12:49:22] [Craft Scheduler Thread - 22698/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -998,12 +906,11 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[12:54:17] [Server thread/WARN]: RYozora moved too quickly! 8.113201114347248,-3.2356047497010394,-6.141731349654037
-[12:57:05] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
-[12:57:26] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
-[12:57:36] [Server thread/INFO]: <清道夫>  移除 20 个垃圾...
-[12:57:36] [Craft Scheduler Thread - 7037/INFO]: [ServerlistMOTD] Saved informations to files!
-[12:57:36] [Craft Scheduler Thread - 7050/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[12:58:52] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
+[12:59:12] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
+[12:59:22] [Server thread/INFO]: <清道夫>  移除 0 个垃圾...
+[12:59:22] [Craft Scheduler Thread - 22694/INFO]: [ServerlistMOTD] Saved informations to files!
+[12:59:22] [Craft Scheduler Thread - 22710/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -1014,15 +921,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[12:58:29] [Server thread/WARN]: RYozora was kicked for floating too long!
-[12:58:29] [Server thread/INFO]: RYozora lost connection: Flying is not enabled on this server
-[12:58:29] [Server thread/INFO]: RYozora left the game
-[12:58:29] [Server thread/WARN]: handleDisconnection() called twice
-[12:58:32] [User Authenticator #186/INFO]: UUID of player RYozora is b726f4a3-0eef-3cf4-a13b-0be2f697b248
-[12:58:33] [Server thread/INFO]: RYozora[/14.153.78.167:29416] logged in with entity id 2314961 at ([world]957.2938494310105, 94.48363605233959, -2698.878443782239)
-[12:58:38] [Server thread/INFO]: CMC (Warning): The plugin AuthMe attempted to remove op from RYozora
-[13:01:29] [Server thread/INFO]: RYozora issued server command: /spawn
-[13:07:38] [Craft Scheduler Thread - 7057/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[13:09:22] [Craft Scheduler Thread - 22716/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -1033,7 +932,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[13:17:38] [Craft Scheduler Thread - 7072/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[13:19:22] [Craft Scheduler Thread - 22731/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -1044,8 +943,8 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[13:27:38] [Craft Scheduler Thread - 7071/INFO]: [ServerlistMOTD] Saved informations to files!
-[13:27:38] [Craft Scheduler Thread - 7084/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[13:29:22] [Craft Scheduler Thread - 22728/INFO]: [ServerlistMOTD] Saved informations to files!
+[13:29:22] [Craft Scheduler Thread - 22743/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -1056,7 +955,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[13:37:38] [Craft Scheduler Thread - 7092/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[13:39:22] [Craft Scheduler Thread - 22751/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -1067,7 +966,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[13:47:38] [Craft Scheduler Thread - 7108/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[13:49:22] [Craft Scheduler Thread - 22767/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -1078,14 +977,11 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[13:48:35] [User Authenticator #187/INFO]: UUID of player Angra is 6560b339-0d42-3a88-aab7-873db1888805
-[13:48:36] [Server thread/INFO]: Angra[/117.150.146.253:57977] logged in with entity id 2316726 at ([world]173.10611897346885, 68.0, -10.721898376440453)
-[13:48:47] [Server thread/INFO]: CMC (Warning): The plugin AuthMe attempted to remove op from Angra
-[13:57:08] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
-[13:57:28] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
-[13:57:38] [Server thread/INFO]: <清道夫>  移除 8 个垃圾...
-[13:57:38] [Craft Scheduler Thread - 7101/INFO]: [ServerlistMOTD] Saved informations to files!
-[13:57:38] [Craft Scheduler Thread - 7120/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[13:58:52] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
+[13:59:12] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
+[13:59:22] [Server thread/INFO]: <清道夫>  移除 1 个垃圾...
+[13:59:22] [Craft Scheduler Thread - 22750/INFO]: [ServerlistMOTD] Saved informations to files!
+[13:59:22] [Craft Scheduler Thread - 22779/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -1096,7 +992,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[14:07:38] [Craft Scheduler Thread - 7127/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[14:09:22] [Craft Scheduler Thread - 22785/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -1107,7 +1003,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[14:17:38] [Craft Scheduler Thread - 7143/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[14:19:22] [Craft Scheduler Thread - 22801/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -1118,10 +1014,8 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[14:21:02] [Server thread/INFO]: Angra lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
-[14:21:02] [Server thread/INFO]: Angra left the game
-[14:27:38] [Craft Scheduler Thread - 7145/INFO]: [ServerlistMOTD] Saved informations to files!
-[14:27:38] [Craft Scheduler Thread - 7156/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[14:29:22] [Craft Scheduler Thread - 22798/INFO]: [ServerlistMOTD] Saved informations to files!
+[14:29:22] [Craft Scheduler Thread - 22813/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -1132,7 +1026,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[14:37:38] [Craft Scheduler Thread - 7163/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[14:39:22] [Craft Scheduler Thread - 22819/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -1143,7 +1037,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[14:47:38] [Craft Scheduler Thread - 7180/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[14:49:22] [Craft Scheduler Thread - 22834/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -1154,11 +1048,11 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[14:57:08] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
-[14:57:28] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
-[14:57:38] [Server thread/INFO]: <清道夫>  移除 2 个垃圾...
-[14:57:38] [Craft Scheduler Thread - 7179/INFO]: [ServerlistMOTD] Saved informations to files!
-[14:57:38] [Craft Scheduler Thread - 7193/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[14:58:52] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
+[14:59:12] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
+[14:59:22] [Server thread/INFO]: <清道夫>  移除 1 个垃圾...
+[14:59:22] [Craft Scheduler Thread - 22832/INFO]: [ServerlistMOTD] Saved informations to files!
+[14:59:22] [Craft Scheduler Thread - 22846/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -1169,7 +1063,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[15:07:38] [Craft Scheduler Thread - 7201/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[15:09:22] [Craft Scheduler Thread - 22852/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -1180,7 +1074,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[15:17:38] [Craft Scheduler Thread - 7218/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
+[15:19:22] [Craft Scheduler Thread - 22867/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
 	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
@@ -1191,109 +1085,350 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[15:27:38] [Craft Scheduler Thread - 7217/INFO]: [ServerlistMOTD] Saved informations to files!
-[15:27:38] [Craft Scheduler Thread - 7231/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
-java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
-	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
-	at org.dynmap.residence.MetricsLite$1.run(MetricsLite.java:173) ~[?:?]
-	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftTask.run(CraftTask.java:58) ~[patched_1.11.jar:git-Paper-967]
-	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [patched_1.11.jar:git-Paper-967]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) [patched_1.11.jar:git-Paper-967]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
-	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[15:37:38] [Craft Scheduler Thread - 7239/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
-java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
-	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
-	at org.dynmap.residence.MetricsLite$1.run(MetricsLite.java:173) ~[?:?]
-	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftTask.run(CraftTask.java:58) ~[patched_1.11.jar:git-Paper-967]
-	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [patched_1.11.jar:git-Paper-967]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) [patched_1.11.jar:git-Paper-967]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
-	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[15:47:38] [Craft Scheduler Thread - 7255/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
-java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
-	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
-	at org.dynmap.residence.MetricsLite$1.run(MetricsLite.java:173) ~[?:?]
-	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftTask.run(CraftTask.java:58) ~[patched_1.11.jar:git-Paper-967]
-	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [patched_1.11.jar:git-Paper-967]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) [patched_1.11.jar:git-Paper-967]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
+[15:19:44] [User Authenticator #384/INFO]: UUID of player Ruoooooooo is f665ada5-56e7-3438-86c2-9b6b7dcd49e1
+[15:19:45] [pool-11-thread-820/INFO]: [SkinsRestorer] MySQL error: The last packet successfully received from the server was 67,235,466 milliseconds ago.  The last packet sent successfully to the server was 67,235,466 milliseconds ago. is longer than the server configured value of 'wait_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+[15:19:45] [pool-11-thread-820/INFO]: [SkinsRestorer] Connected to MySQL!
+[15:19:45] [pool-11-thread-821/INFO]: [SkinsRestorer] Connected to MySQL!
+[15:19:45] [pool-11-thread-822/INFO]: [SkinsRestorer] Connected to MySQL!
+[15:19:45] [Server thread/INFO]: Ruoooooooo[/180.165.69.28:12365] logged in with entity id 4889405 at ([world]0.5, 67.0, 0.5)
+[15:19:56] [Server thread/INFO]: Ruoooooooo lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[15:19:56] [Server thread/INFO]: Ruoooooooo left the game
+[15:19:58] [Server thread/INFO]: 村庄护卫 was blown up by [Lv3] Creeper
+[15:20:52] [User Authenticator #385/INFO]: UUID of player ruo_mc is 73fb77c8-2c66-3898-ba1b-709022af8913
+[15:20:52] [Server thread/INFO]: ruo_mc[/180.165.69.28:12433] logged in with entity id 4889544 at ([world]13.95131830007923, 71.0, -28.19056203995283)
+[15:21:06] [Craft Scheduler Thread - 22869/WARN]: [AuthMe] Error getting message with key 'accounts_owned_self'. Please verify your config file at 'messages_zhcn.yml'
+[15:21:06] [Server thread/INFO]: CMC (Warning): The plugin AuthMe attempted to remove op from ruo_mc
+[15:26:55] [Server thread/INFO]: [PlugMan] That is not a valid plugin.
+[15:26:55] [Server thread/INFO]: - Command: Usage
+[15:26:55] [Server thread/INFO]: - Description: List commands a plugin has registered.
+[15:26:55] [Server thread/INFO]: - Usage: /plugman usage <plugin>
+[15:27:04] [Server thread/INFO]: [PlugMan] Plugins (33): AuthMe, BossShop, Citizens, ClearLag, CommandCost, ConquestiaMobs, ConsoleName, dynmap, dynmap-residence, Essentials, EssentialsAntiBuild, EssentialsChat, EssentialsProtect, EssentialsSpawn, GroupManager, InfernalMobs, IslandCraft, Lift, LockettePro, mcMMO, MobHealth, MorePlayerModels2, OpGuard, PlugMan, ProtocolLib, QuickShop, Residence, Sentinel, ServerlistMOTD, SkinsRestorer, Vault, WorldBorder, WorldEdit
+[15:27:16] [User Authenticator #386/INFO]: UUID of player 3hui is 162efc36-1d00-3fc7-a56a-cd27a78ac355
+[15:27:17] [Server thread/INFO]: 3hui[/183.205.22.134:51825] logged in with entity id 4889866 at ([world]46.69702722758857, 70.0, -68.82443922051264)
+[15:27:19] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[15:27:27] [Server thread/INFO]: CMC (Warning): The plugin AuthMe attempted to remove op from 3hui
+[15:27:30] [Server thread/INFO]: --------------------- [ PlugMan ] ---------------------
+[15:27:30] [Server thread/INFO]: - /plugman help - Displays this.
+[15:27:30] [Server thread/INFO]: - /plugman list [-v] - List all plugins (-v shows versions).
+[15:27:30] [Server thread/INFO]: - /plugman dump - Dump plugin names and versions to file.
+[15:27:30] [Server thread/INFO]: - /plugman info <plugin> - Get info on a plugin.
+[15:27:30] [Server thread/INFO]: - /plugman usage <plugin> - List commands a plugin has registered.
+[15:27:30] [Server thread/INFO]: - /plugman lookup <command> - Find the plugin a command is registered to.
+[15:27:30] [Server thread/INFO]: - /plugman enable <plugin|all> - Enable a plugin.
+[15:27:30] [Server thread/INFO]: - /plugman disable <plugin|all> - Disable a plugin.
+[15:27:30] [Server thread/INFO]: - /plugman restart <plugin|all> - Restart a plugin.
+[15:27:30] [Server thread/INFO]: - /plugman load <plugin> - Load a plugin.
+[15:27:30] [Server thread/INFO]: - /plugman reload <plugin|all> - Reload a plugin.
+[15:27:30] [Server thread/INFO]: - /plugman unload <plugin> - Unload a plugin.
+[15:27:30] [Server thread/INFO]: - /plugman check <plugin|all> [-f] - Check if a plugin is up-to-date (-f dumps to file for all).
+[15:27:47] [Server thread/INFO]: [PlugMan] Commands: manuadd, manudel, manuaddsub, manudelsub, mangadd, mangdel, manuaddp, manudelp, manuclearp, manulistp, manucheckp, mangaddp, mangdelp, mangclearp, manglistp, mangcheckp, mangaddi, mangdeli, manuaddv, manudelv, manulistv, manucheckv, mangaddv, mangdelv, manglistv, mangcheckv, manwhois, tempadd, tempdel, templist, tempdelall, mansave, manload, listgroups, manpromote, mandemote, mantogglevalidate, mantogglesave, manworld, manselect, manclear, mancheckw
+[15:28:15] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.2-SNAPSHOT
+[15:28:15] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[15:28:15] [Server thread/INFO]: [Vault][Permission] GroupManager un-hooked.
+[15:28:15] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat un-hooked.
+[15:28:15] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[15:28:15] [Server thread/INFO]: Newer Groups file found (Loading changes)!
+[15:28:15] [Server thread/ERROR]: Error occurred while disabling GroupManager v2.2-SNAPSHOT (Is it up to date?)
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftScheduler.validate(CraftScheduler.java:410) ~[patched_1.11.jar:git-Paper-967]
+	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:129) ~[patched_1.11.jar:git-Paper-967]
+	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftScheduler.scheduleSyncRepeatingTask(CraftScheduler.java:125) ~[patched_1.11.jar:git-Paper-967]
+	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftScheduler.scheduleSyncDelayedTask(CraftScheduler.java:108) ~[patched_1.11.jar:git-Paper-967]
+	at org.anjocaido.groupmanager.events.GMSystemEvent.schedule(GMSystemEvent.java:46) ~[?:?]
+	at org.anjocaido.groupmanager.events.GroupManagerEventHandler.callEvent(GroupManagerEventHandler.java:38) ~[?:?]
+	at org.anjocaido.groupmanager.events.GroupManagerEventHandler.callEvent(GroupManagerEventHandler.java:63) ~[?:?]
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.reloadGroups(WorldDataHolder.java:1150) ~[?:?]
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.saveChanges(WorldsHolder.java:347) ~[?:?]
+	at org.anjocaido.groupmanager.GroupManager.onDisable(GroupManager.java:138) ~[?:?]
+	at org.anjocaido.groupmanager.GroupManager.onDisable(GroupManager.java:109) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:273) ~[patched_1.11.jar:git-Paper-967]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:344) [patched_1.11.jar:git-Paper-967]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:427) [patched_1.11.jar:git-Paper-967]
+	at com.rylinaux.plugman.util.PluginUtil.unload(PluginUtil.java:415) [PlugMan.jar:?]
+	at com.rylinaux.plugman.util.PluginUtil.reload(PluginUtil.java:376) [PlugMan.jar:?]
+	at com.rylinaux.plugman.command.ReloadCommand.execute(ReloadCommand.java:122) [PlugMan.jar:?]
+	at com.rylinaux.plugman.PlugManCommandHandler.onCommand(PlugManCommandHandler.java:95) [PlugMan.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) [patched_1.11.jar:git-Paper-967]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:151) [patched_1.11.jar:git-Paper-967]
+	at org.bukkit.craftbukkit.v1_11_R1.CraftServer.dispatchCommand(CraftServer.java:674) [patched_1.11.jar:git-Paper-967]
+	at org.bukkit.craftbukkit.v1_11_R1.CraftServer.dispatchServerCommand(CraftServer.java:637) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.DedicatedServer.aM(DedicatedServer.java:441) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:404) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:749) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:648) [patched_1.11.jar:git-Paper-967]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[15:57:08] [Server thread/INFO]: <清道夫> 地面将在 30 秒后被清理...
-[15:57:28] [Server thread/INFO]: <清道夫> 地面将在 10 秒后被清理...
-[15:57:38] [Server thread/INFO]: <清道夫>  移除 3 个垃圾...
-[15:57:38] [Craft Scheduler Thread - 7243/INFO]: [ServerlistMOTD] Saved informations to files!
-[15:57:38] [Craft Scheduler Thread - 7268/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
-java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
-	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
-	at org.dynmap.residence.MetricsLite$1.run(MetricsLite.java:173) ~[?:?]
-	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftTask.run(CraftTask.java:58) ~[patched_1.11.jar:git-Paper-967]
-	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [patched_1.11.jar:git-Paper-967]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) [patched_1.11.jar:git-Paper-967]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
+[15:28:18] [Server thread/WARN]: org.bukkit.plugin.InvalidPluginException: java.lang.IllegalArgumentException: Plugin already initialized!
+[15:28:18] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:131)
+[15:28:18] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:331)
+[15:28:18] [Server thread/WARN]: 	at com.rylinaux.plugman.util.PluginUtil.load(PluginUtil.java:353)
+[15:28:18] [Server thread/WARN]: 	at com.rylinaux.plugman.util.PluginUtil.load(PluginUtil.java:316)
+[15:28:18] [Server thread/WARN]: 	at com.rylinaux.plugman.util.PluginUtil.reload(PluginUtil.java:377)
+[15:28:18] [Server thread/WARN]: 	at com.rylinaux.plugman.command.ReloadCommand.execute(ReloadCommand.java:122)
+[15:28:18] [Server thread/WARN]: 	at com.rylinaux.plugman.PlugManCommandHandler.onCommand(PlugManCommandHandler.java:95)
+[15:28:18] [Server thread/WARN]: 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+[15:28:18] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:151)
+[15:28:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_11_R1.CraftServer.dispatchCommand(CraftServer.java:674)
+[15:28:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_11_R1.CraftServer.dispatchServerCommand(CraftServer.java:637)
+[15:28:18] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.DedicatedServer.aM(DedicatedServer.java:441)
+[15:28:18] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:404)
+[15:28:18] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:749)
+[15:28:18] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:648)
+[15:28:18] [Server thread/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[15:28:18] [Server thread/WARN]: Caused by: java.lang.IllegalArgumentException: Plugin already initialized!
+[15:28:18] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.initialize(PluginClassLoader.java:123)
+[15:28:18] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.<init>(JavaPlugin.java:67)
+[15:28:18] [Server thread/WARN]: 	at org.anjocaido.groupmanager.GroupManager.<init>(GroupManager.java:44)
+[15:28:18] [Server thread/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[15:28:18] [Server thread/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[15:28:18] [Server thread/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[15:28:18] [Server thread/WARN]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+[15:28:18] [Server thread/WARN]: 	at java.lang.Class.newInstance(Class.java:442)
+[15:28:18] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:77)
+[15:28:18] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:127)
+[15:28:18] [Server thread/WARN]: 	... 15 more
+[15:28:18] [Server thread/WARN]: Caused by: java.lang.IllegalStateException: Initial initialization
+[15:28:18] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.initialize(PluginClassLoader.java:126)
+[15:28:18] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.<init>(JavaPlugin.java:67)
+[15:28:18] [Server thread/WARN]: 	at org.anjocaido.groupmanager.GroupManager.<init>(GroupManager.java:44)
+[15:28:18] [Server thread/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[15:28:18] [Server thread/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[15:28:18] [Server thread/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[15:28:18] [Server thread/WARN]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+[15:28:18] [Server thread/WARN]: 	at java.lang.Class.newInstance(Class.java:442)
+[15:28:18] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:77)
+[15:28:18] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:127)
+[15:28:18] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:331)
+[15:28:18] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:254)
+[15:28:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_11_R1.CraftServer.loadPlugins(CraftServer.java:301)
+[15:28:18] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.DedicatedServer.init(DedicatedServer.java:208)
+[15:28:18] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:599)
+[15:28:18] [Server thread/WARN]: 	... 1 more
+[15:28:18] [Server thread/INFO]: [PlugMan] GroupManager has been reloaded.
+[15:28:18] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to EssentialsAntiBuild v2.0.1-b455
+org.bukkit.event.EventException
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:46) ~[patched_1.11.jar:git-Paper-967]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.11.jar:git-Paper-967]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.11.jar:git-Paper-967]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [patched_1.11.jar:git-Paper-967]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) [patched_1.11.jar:git-Paper-967]
+	at org.bukkit.craftbukkit.v1_11_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:233) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PlayerInteractManager.a(PlayerInteractManager.java:444) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PlayerConnection.a(PlayerConnection.java:899) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:5) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.11.jar:git-Paper-967]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_111]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_111]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:46) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:817) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:403) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:749) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:648) [patched_1.11.jar:git-Paper-967]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[16:07:38] [Craft Scheduler Thread - 7276/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
-java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
-	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
-	at org.dynmap.residence.MetricsLite$1.run(MetricsLite.java:173) ~[?:?]
-	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftTask.run(CraftTask.java:58) ~[patched_1.11.jar:git-Paper-967]
-	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [patched_1.11.jar:git-Paper-967]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) [patched_1.11.jar:git-Paper-967]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
+Caused by: java.lang.NullPointerException
+	at net.milkbowl.vault.permission.plugins.Permission_GroupManager.getPrimaryGroup(Permission_GroupManager.java:327) ~[?:?]
+	at net.milkbowl.vault.permission.Permission.getPrimaryGroup(Permission.java:726) ~[?:?]
+	at net.milkbowl.vault.permission.Permission.getPrimaryGroup(Permission.java:738) ~[?:?]
+	at com.earth2me.essentials.perm.impl.AbstractVaultHandler.getGroup(AbstractVaultHandler.java:33) ~[?:?]
+	at com.earth2me.essentials.perm.PermissionsHandler.getGroup(PermissionsHandler.java:28) ~[?:?]
+	at com.earth2me.essentials.User.getGroup(User.java:619) ~[?:?]
+	at com.earth2me.essentials.User.canBuild(User.java:640) ~[?:?]
+	at com.earth2me.essentials.antibuild.EssentialsAntiBuildListener.onPlayerInteract(EssentialsAntiBuildListener.java:184) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor232.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44) ~[patched_1.11.jar:git-Paper-967]
+	... 18 more
+[15:28:18] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to EssentialsAntiBuild v2.0.1-b455
+org.bukkit.event.EventException
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:46) ~[patched_1.11.jar:git-Paper-967]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.11.jar:git-Paper-967]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.11.jar:git-Paper-967]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [patched_1.11.jar:git-Paper-967]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) [patched_1.11.jar:git-Paper-967]
+	at org.bukkit.craftbukkit.v1_11_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:233) [patched_1.11.jar:git-Paper-967]
+	at org.bukkit.craftbukkit.v1_11_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:200) [patched_1.11.jar:git-Paper-967]
+	at org.bukkit.craftbukkit.v1_11_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:196) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PlayerConnection.a(PlayerConnection.java:937) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:26) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:5) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.11.jar:git-Paper-967]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_111]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_111]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:46) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:817) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:403) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:749) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:648) [patched_1.11.jar:git-Paper-967]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[16:09:58] [Server thread/WARN]: RYozora was kicked for floating too long!
-[16:09:58] [Server thread/INFO]: RYozora lost connection: Flying is not enabled on this server
-[16:09:58] [Server thread/INFO]: RYozora left the game
-[16:09:58] [Server thread/WARN]: handleDisconnection() called twice
-[16:10:06] [User Authenticator #188/INFO]: UUID of player RYozora is b726f4a3-0eef-3cf4-a13b-0be2f697b248
-[16:10:07] [Server thread/INFO]: RYozora[/14.153.78.167:27834] logged in with entity id 2320002 at ([world]87.12276008383803, 107.10622648969019, 21.467466495242203)
-[16:10:17] [Server thread/INFO]: CMC (Warning): The plugin AuthMe attempted to remove op from RYozora
-[16:10:21] [Server thread/WARN]: RYozora moved too quickly! -10.434044126327066,2.939999908208847,2.0121906510902647
-[16:17:38] [Craft Scheduler Thread - 7293/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
-java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
-	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
-	at org.dynmap.residence.MetricsLite$1.run(MetricsLite.java:173) ~[?:?]
-	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftTask.run(CraftTask.java:58) ~[patched_1.11.jar:git-Paper-967]
-	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [patched_1.11.jar:git-Paper-967]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) [patched_1.11.jar:git-Paper-967]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
+Caused by: java.lang.NullPointerException
+	at net.milkbowl.vault.permission.plugins.Permission_GroupManager.getPrimaryGroup(Permission_GroupManager.java:327) ~[?:?]
+	at net.milkbowl.vault.permission.Permission.getPrimaryGroup(Permission.java:726) ~[?:?]
+	at net.milkbowl.vault.permission.Permission.getPrimaryGroup(Permission.java:738) ~[?:?]
+	at com.earth2me.essentials.perm.impl.AbstractVaultHandler.getGroup(AbstractVaultHandler.java:33) ~[?:?]
+	at com.earth2me.essentials.perm.PermissionsHandler.getGroup(PermissionsHandler.java:28) ~[?:?]
+	at com.earth2me.essentials.User.getGroup(User.java:619) ~[?:?]
+	at com.earth2me.essentials.User.canBuild(User.java:640) ~[?:?]
+	at com.earth2me.essentials.antibuild.EssentialsAntiBuildListener.onPlayerInteract(EssentialsAntiBuildListener.java:184) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor232.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44) ~[patched_1.11.jar:git-Paper-967]
+	... 19 more
+[15:28:18] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to EssentialsAntiBuild v2.0.1-b455
+org.bukkit.event.EventException
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:46) ~[patched_1.11.jar:git-Paper-967]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.11.jar:git-Paper-967]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.11.jar:git-Paper-967]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [patched_1.11.jar:git-Paper-967]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) [patched_1.11.jar:git-Paper-967]
+	at org.bukkit.craftbukkit.v1_11_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:233) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PlayerInteractManager.a(PlayerInteractManager.java:444) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PlayerConnection.a(PlayerConnection.java:899) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:5) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.11.jar:git-Paper-967]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_111]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_111]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:46) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:817) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:403) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:749) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:648) [patched_1.11.jar:git-Paper-967]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[16:27:38] [Craft Scheduler Thread - 7279/INFO]: [ServerlistMOTD] Saved informations to files!
-[16:27:38] [Craft Scheduler Thread - 7306/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
-java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
-	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
-	at org.dynmap.residence.MetricsLite$1.run(MetricsLite.java:173) ~[?:?]
-	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftTask.run(CraftTask.java:58) ~[patched_1.11.jar:git-Paper-967]
-	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [patched_1.11.jar:git-Paper-967]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) [patched_1.11.jar:git-Paper-967]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
+Caused by: java.lang.NullPointerException
+	at net.milkbowl.vault.permission.plugins.Permission_GroupManager.getPrimaryGroup(Permission_GroupManager.java:327) ~[?:?]
+	at net.milkbowl.vault.permission.Permission.getPrimaryGroup(Permission.java:726) ~[?:?]
+	at net.milkbowl.vault.permission.Permission.getPrimaryGroup(Permission.java:738) ~[?:?]
+	at com.earth2me.essentials.perm.impl.AbstractVaultHandler.getGroup(AbstractVaultHandler.java:33) ~[?:?]
+	at com.earth2me.essentials.perm.PermissionsHandler.getGroup(PermissionsHandler.java:28) ~[?:?]
+	at com.earth2me.essentials.User.getGroup(User.java:619) ~[?:?]
+	at com.earth2me.essentials.User.canBuild(User.java:640) ~[?:?]
+	at com.earth2me.essentials.antibuild.EssentialsAntiBuildListener.onPlayerInteract(EssentialsAntiBuildListener.java:184) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor232.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44) ~[patched_1.11.jar:git-Paper-967]
+	... 18 more
+[15:28:20] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to EssentialsAntiBuild v2.0.1-b455
+org.bukkit.event.EventException
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:46) ~[patched_1.11.jar:git-Paper-967]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.11.jar:git-Paper-967]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.11.jar:git-Paper-967]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [patched_1.11.jar:git-Paper-967]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) [patched_1.11.jar:git-Paper-967]
+	at org.bukkit.craftbukkit.v1_11_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:233) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PlayerInteractManager.a(PlayerInteractManager.java:444) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PlayerConnection.a(PlayerConnection.java:899) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:5) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.11.jar:git-Paper-967]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_111]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_111]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:46) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:817) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:403) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:749) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:648) [patched_1.11.jar:git-Paper-967]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[16:37:38] [Craft Scheduler Thread - 7314/WARN]: [dynmap-residence] Plugin dynmap-residence v0.50-21 generated an exception while executing task 58
-java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at org.dynmap.residence.MetricsLite.postPlugin(MetricsLite.java:285) ~[?:?]
-	at org.dynmap.residence.MetricsLite.access$200(MetricsLite.java:51) ~[?:?]
-	at org.dynmap.residence.MetricsLite$1.run(MetricsLite.java:173) ~[?:?]
-	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftTask.run(CraftTask.java:58) ~[patched_1.11.jar:git-Paper-967]
-	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [patched_1.11.jar:git-Paper-967]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) [patched_1.11.jar:git-Paper-967]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_111]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_111]
+Caused by: java.lang.NullPointerException
+	at net.milkbowl.vault.permission.plugins.Permission_GroupManager.getPrimaryGroup(Permission_GroupManager.java:327) ~[?:?]
+	at net.milkbowl.vault.permission.Permission.getPrimaryGroup(Permission.java:726) ~[?:?]
+	at net.milkbowl.vault.permission.Permission.getPrimaryGroup(Permission.java:738) ~[?:?]
+	at com.earth2me.essentials.perm.impl.AbstractVaultHandler.getGroup(AbstractVaultHandler.java:33) ~[?:?]
+	at com.earth2me.essentials.perm.PermissionsHandler.getGroup(PermissionsHandler.java:28) ~[?:?]
+	at com.earth2me.essentials.User.getGroup(User.java:619) ~[?:?]
+	at com.earth2me.essentials.User.canBuild(User.java:640) ~[?:?]
+	at com.earth2me.essentials.antibuild.EssentialsAntiBuildListener.onPlayerInteract(EssentialsAntiBuildListener.java:184) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor232.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44) ~[patched_1.11.jar:git-Paper-967]
+	... 18 more
+[15:28:24] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to EssentialsAntiBuild v2.0.1-b455
+org.bukkit.event.EventException
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:46) ~[patched_1.11.jar:git-Paper-967]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.11.jar:git-Paper-967]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.11.jar:git-Paper-967]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [patched_1.11.jar:git-Paper-967]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) [patched_1.11.jar:git-Paper-967]
+	at org.bukkit.craftbukkit.v1_11_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:233) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PlayerInteractManager.a(PlayerInteractManager.java:444) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PlayerConnection.a(PlayerConnection.java:899) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:5) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.11.jar:git-Paper-967]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_111]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_111]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:46) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:817) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:403) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:749) [patched_1.11.jar:git-Paper-967]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:648) [patched_1.11.jar:git-Paper-967]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
-[16:45:41] [Server thread/INFO]: CONSOLE issued server command: /list 
-[16:45:41] [Server thread/INFO]: 当前有 2 个玩家在线,最大在线人数为 20 个玩家.
-[16:45:41] [Server thread/INFO]: Builder: [村民]KUMA
-[16:45:41] [Server thread/INFO]: Moderator: [离开][名媛]RYozora
+Caused by: java.lang.NullPointerException
+	at net.milkbowl.vault.permission.plugins.Permission_GroupManager.getPrimaryGroup(Permission_GroupManager.java:327) ~[?:?]
+	at net.milkbowl.vault.permission.Permission.getPrimaryGroup(Permission.java:726) ~[?:?]
+	at net.milkbowl.vault.permission.Permission.getPrimaryGroup(Permission.java:738) ~[?:?]
+	at com.earth2me.essentials.perm.impl.AbstractVaultHandler.getGroup(AbstractVaultHandler.java:33) ~[?:?]
+	at com.earth2me.essentials.perm.PermissionsHandler.getGroup(PermissionsHandler.java:28) ~[?:?]
+	at com.earth2me.essentials.User.getGroup(User.java:619) ~[?:?]
+	at com.earth2me.essentials.User.canBuild(User.java:640) ~[?:?]
+	at com.earth2me.essentials.antibuild.EssentialsAntiBuildListener.onPlayerInteract(EssentialsAntiBuildListener.java:184) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor232.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44) ~[patched_1.11.jar:git-Paper-967]
+	... 18 more
+[15:28:25] [Server thread/INFO]: Stopping the server
+[15:28:25] [Server thread/INFO]: Stopping server
+[15:28:25] [Server thread/INFO]: [LockettePro] Disabling LockettePro v2.4.1
+[15:28:25] [Server thread/INFO]: [dynmap-residence] Disabling dynmap-residence v0.50-21
+[15:28:25] [Server thread/INFO]: [Residence] Disabling Residence v4.5.12.2
+[15:28:25] [Server thread/INFO]: [Residence] Disabled!
+[15:28:25] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.8.6
+[15:28:25] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
+[15:28:25] [Server thread/INFO]: [ServerlistMOTD] Disabling ServerlistMOTD v6.2
+[15:28:25] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.2-SNAPSHOT-b1384
+[15:28:25] [Server thread/INFO]: [AuthMe] AuthMe 5.2-SNAPSHOT-b1384 disabled!
+[15:28:25] [AuthMe-DataSource#close/INFO]: [AuthMe] Waiting for 0 tasks to finish
+[15:28:25] [AuthMe-DataSource#close/WARN]: [AuthMe-DataSource#close] INFO fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool - AuthMeMYSQLPool - Close initiated...
+[15:28:25] [Server thread/INFO]: [dynmap] Disabling dynmap v2.3-1142
+[15:28:25] [AuthMe-DataSource#close/WARN]: [AuthMe-DataSource#close] INFO fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool - AuthMeMYSQLPool - Closed.
+[15:28:25] [Server thread/INFO]: [dynmap] Unloaded 10 components.
+[15:28:25] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[15:28:25] [Server thread/INFO]: [dynmap] Saved 1018 pending tile renders in world 'world'
+[15:28:26] [Server thread/INFO]: [dynmap] Saved 98 pending tile renders in world 'world_nether'
+[15:28:26] [Server thread/INFO]: [dynmap] Disabled
+[15:28:26] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.0.1-b455
+[15:28:26] [Server thread/INFO]: [BossShop] Disabling BossShop v2.7.3
+[15:28:26] [Server thread/INFO]: [BossShop] Disabling... bye!
+[15:28:26] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.0.1-b455
+[15:28:26] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.0.1-b455
+[15:28:26] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.0.1-b455
+[15:28:26] [Server thread/INFO]: [Sentinel] Disabling Sentinel v1.0 (build 90)
+[15:28:26] [Server thread/INFO]: [Sentinel] Sentinel unloading...
+[15:28:26] [Server thread/INFO]: [Sentinel] Sentinel unloaded!
+[15:28:26] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.21-SNAPSHOT (build 1437)
+[15:28:26] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.1.0
+[15:28:26] [Server thread/INFO]: [QuickShop] Disabling QuickShop v0.9.27
+[15:28:26] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.1.1
+[15:28:26] [Server thread/INFO]: [CommandCost] Disabling CommandCost v1.4
+[15:28:26] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b455
+[15:28:26] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
+[15:28:26] [Server thread/INFO]: [InfernalMobs] Disabling InfernalMobs v5.1
+[15:28:26] [Server thread/INFO]: [ConquestiaMobs] Disabling ConquestiaMobs v3.0.11
+[15:28:26] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[15:28:26] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.07
+[15:28:28] [Server thread/INFO]: [ConsoleName] Disabling ConsoleName v2.6
+[15:28:28] [Server thread/INFO]: [OpGuard] Disabling OpGuard v3.1.2
+[15:28:28] [Server thread/INFO]: [MobHealth] Disabling MobHealth v10.0.1
+[15:28:28] [Server thread/INFO]: [MobHealth] [MobHealth] --- END OF LINE ---
+[15:28:28] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v12.9.5
+[15:28:28] [Server thread/INFO]: [MorePlayerModels2] Disabling MorePlayerModels2 v1.10.2
+[15:28:28] [Server thread/INFO]: [MorePlayerModels2] MorePlayerModels plugin has been disabled
+[15:28:28] [Server thread/INFO]: [ClearLag] Disabling ClearLag v2.9.3
+[15:28:28] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[15:28:28] [Server thread/INFO]: [Lift] Disabling Lift v54
+[15:28:28] [Server thread/INFO]: Lift v54 is now disabled!
+[15:28:28] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.5;4651611
+[15:28:28] [Server thread/INFO]: Saving players
+[15:28:28] [Server thread/INFO]: ruo_mc lost connection: Server closed
+[15:28:28] [Server thread/INFO]: ruo_mc left the game
+[15:28:28] [Server thread/INFO]: 3hui lost connection: Server closed
+[15:28:28] [Server thread/INFO]: 3hui left the game
+[15:28:28] [Server thread/INFO]: Saving worlds
+[15:28:28] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[15:28:28] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[15:28:28] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[15:28:28] [Server thread/INFO]: Saving usercache.json
