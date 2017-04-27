@@ -1,0 +1,37 @@
+cfg-version: 11
+message: <世界边界> &c你到达了世界的边界.
+round-border: true
+debug-mode: false
+whoosh-effect: true
+portal-redirection: true
+knock-back-dist: 3.0
+timer-delay-ticks: 5
+remount-delay-ticks: 0
+dynmap-border-enabled: true
+dynmap-border-message: 世界边界
+player-killed-bad-spawn: false
+deny-enderpearl: true
+fill-autosave-frequency: 30
+bypass-list-uuids: []
+fill-memory-tolerance: 500
+prevent-block-place: true
+prevent-mob-spawn: true
+worlds:
+  world:
+    x: 0.0
+    z: 0.0
+    radiusX: 3200
+    radiusZ: 3200
+    wrapping: false
+  world_nether:
+    x: 0.0
+    z: 0.0
+    radiusX: 1500
+    radiusZ: 1500
+    wrapping: false
+  wrold:
+    x: 12.56402887981668
+    z: 5.89624521498977
+    radiusX: 8888
+    radiusZ: 8888
+    wrapping: false
