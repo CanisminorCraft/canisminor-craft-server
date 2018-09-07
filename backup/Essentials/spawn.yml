@@ -1,8 +1,0 @@
-spawns: 
-  default: 
-    world: world
-    x: 0.5
-    y: 68.0
-    z: 0.5
-    yaw: -16.652283
-    pitch: 26.100023

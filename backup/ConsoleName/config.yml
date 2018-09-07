@@ -1,7 +1,0 @@
-chatFormatSymbol: '&'
-overrideSayCommand: true
-enableSignBroadcast: true
-signBroadcastTool: SIGN
-prefix:
-  console: '&f<|&6激萌&f|Bot>'
-  default: '&f<&2bot&f>'

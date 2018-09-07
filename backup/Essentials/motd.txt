@@ -1,4 +1,0 @@
-&6[CMC] &f欢迎回家, {PLAYER}&6!
-&6[CMC] &f输入 &b/help&f 查看可用指令.
-&6[CMC] &f输入 &b/list&f 查看在线玩家.
-&6[CMC] &f在线玩家:&a {ONLINE} &f当前时间:&a {WORLDTIME12}
